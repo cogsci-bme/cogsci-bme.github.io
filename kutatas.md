@@ -21,7 +21,7 @@ permalink: /kutatas/
     <h2 class="section-title">Kutatócsoportjaink</h2>
     <div class="groups">
       <article class="group">
-        <img src="{{ site.baseurl }}/images/flyer/PPajkossy.jpg" alt="Pajkossy Péter">
+        <img src="{{ site.baseurl }}/images/munkatarsak/Pajkossy_Peter.jpg" alt="Pajkossy Péter">
         <div>
           <h3>Figyelem és Emlékezet Kutatócsoport</h3>
           <p class="who">Pajkossy Péter</p>
@@ -29,7 +29,7 @@ permalink: /kutatas/
         </div>
       </article>
       <article class="group">
-        <img src="{{ site.baseurl }}/images/flyer/MZimmer.jpg" alt="Zimmer Márta">
+        <img src="{{ site.baseurl }}/images/munkatarsak/Zimmer_Marta.jpg" alt="Zimmer Márta">
         <div>
           <h3>Vizuális Idegtudomány Kutatócsoport</h3>
           <p class="who">Zimmer Márta</p>
@@ -37,7 +37,7 @@ permalink: /kutatas/
         </div>
       </article>
       <article class="group">
-        <img src="{{ site.baseurl }}/images/flyer/GyDemeter.jpg" alt="Demeter Gyula">
+        <img src="{{ site.baseurl }}/images/munkatarsak/Demeter_Gyula.jpg" alt="Demeter Gyula">
         <div>
           <h3>Neuropszichológia és Megismerés Kutatócsoport</h3>
           <p class="who">Demeter Gyula</p>
@@ -45,7 +45,7 @@ permalink: /kutatas/
         </div>
       </article>
       <article class="group">
-        <img src="{{ site.baseurl }}/images/flyer/ALukacs.jpg" alt="Lukács Ágnes">
+        <img src="{{ site.baseurl }}/images/munkatarsak/Lukacs_Agnes.jpg" alt="Lukács Ágnes">
         <div>
           <h3>Pszicholingvisztika Kutatócsoport</h3>
           <p class="who">Lukács Ágnes</p>
@@ -53,7 +53,7 @@ permalink: /kutatas/
         </div>
       </article>
       <article class="group">
-        <img src="{{ site.baseurl }}/images/flyer/ABabarczy.jpg" alt="Babarczy Anna">
+        <img src="{{ site.baseurl }}/images/munkatarsak/Babarczy_Anna.jpg" alt="Babarczy Anna">
         <div>
           <h3><a href="http://www.cogsci.bme.hu/~ktkuser/pragmaticslab/" target="_blank" rel="noopener">Kísérleti Pragmatika Kutatócsoport</a></h3>
           <p class="who">Babarczy Anna</p>
