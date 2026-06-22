@@ -60,6 +60,14 @@ permalink: /kutatas/
           <p><span class="label">Témák</span> Pragmatika és tudatelmélet, pragmatikai fejlődés, klinikai pragmatika.</p>
         </div>
       </article>
+      <article class="group">
+        <img src="{{ site.baseurl }}/images/munkatarsak/Racz_Peter.jpg" alt="Rácz Péter">
+        <div>
+          <h3><a href="{{ site.baseurl }}/kutatocsoportok/kultura-es-megismeres/">Kultúra és Megismerés Kutatócsoport</a></h3>
+          <p class="who">Rácz Péter</p>
+          <p><span class="label">Témák</span> A társas és kulturális tényezők szerepe a nyelvi tanulásban és nyelvfeldolgozásban, nyelvi reprezentációk.</p>
+        </div>
+      </article>
     </div>
   </div>
 </section>
