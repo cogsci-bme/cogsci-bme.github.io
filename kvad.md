@@ -24,7 +24,7 @@ permalink: /kvad/
   <div class="wrap">
     <p class="eyebrow">Szakirányú továbbképzési szak · BME Kognitív Tudományi Tanszék</p>
     <h1>Kognitív és viselkedéses adattudomány</h1>
-    <p class="sub">Posztgraduális képzés azoknak, akik humán viselkedéses és kognitív adatokból akarnak megalapozott, döntéstámogató tudást kinyerni.</p>
+    <p class="sub">Posztgraduális képzés azoknak, akik humán viselkedéses és kognitív adatokból akarnak megalapozott, döntéseket támogató tudásokat kinyerni.</p>
     <p class="en">Cognitive and Behavioural Data Science · postgraduate specialisation programme</p>
     <div class="chips">
       <span class="chip">Részidős, levelező munkarend</span>
@@ -45,7 +45,7 @@ permalink: /kvad/
     <div>
       <p class="eyebrow">A képzésről</p>
       <h2 class="section-title">Az emberi viselkedésből cselekvőképes tudás</h2>
-      <p class="lead">A képzés célja olyan szakemberek képzése, akik képesek a humán viselkedésre és kognitív folyamatokra vonatkozó adatok szakszerű gyűjtésére, elemzésére és értelmezésére, valamint az eredmények bizonyítékalapú ajánlásokká alakítására döntéshozók számára.</p>
+      <p class="lead">A képzés célja olyan szakemberek képzése, akik képesek a humán viselkedésre és kognitív folyamatokra vonatkozó adatok szakszerű gyűjtésére, elemzésére és értelmezésére, valamint az eredmények megalapozott javaslatokká alakítására döntéshozók számára.</p>
       <p style="margin-top:1.2rem;color:var(--muted)">A hallgatók megismerik a kísérlettervezés, a kérdőíves adatfelvétel és egyes pszichofiziológiai mérési módszerek alapelveit, és gyakorlati betekintést nyernek a modern statisztikai és gépi tanulási eljárások alkalmazásába, beleértve a mesterséges intelligencia támogatta munkafolyamatokat is. A megszerzett tudás kutatási és ipari környezetben egyaránt hasznosítható: digitális termékek használhatósági vizsgálata, egészségügyi és gyógyszerkutatási adatelemzés, oktatáspolitikai és más döntéstámogató rendszerek.</p>
     </div>
     <div>
@@ -72,7 +72,7 @@ permalink: /kvad/
       <div class="pillar">
         <span class="n">01</span>
         <h3>Mérési érvényesség és reprodukálhatóság</h3>
-        <p>A viselkedéses adat nem semleges környezetben gyűlik passzívan. Szakszerűen tervezett kísérleti és megfigyeléses paradigmák terméke, amelynek érvényessége pszichometriai elvektől, zavaró tényezők kontrolljától és etikai biztosítékoktól függ.</p>
+        <p>A viselkedéses adat nem egy semleges környezetben gyűlik passzívan. Szakszerűen tervezett kísérleti és megfigyeléses paradigmák terméke, amelynek érvényessége pszichometriai elvektől, zavaró tényezők kontrolljától és etikai biztosítékoktól függ.</p>
       </div>
       <div class="pillar">
         <span class="n">02</span>
@@ -82,7 +82,7 @@ permalink: /kvad/
       <div class="pillar">
         <span class="n">03</span>
         <h3>Az eredmények kommunikációja</h3>
-        <p>Az egészségügyi, oktatási és ipari szakembereknek döntésekké, ajánlásokká és gyakorlatváltozásokká formálható eredményekre van szükségük. Ehhez célzott tudománykommunikációs készségek tartoznak.</p>
+        <p>Az egészségügyi, oktatási és ipari szakembereknek döntésekké, ajánlásokká és protokollokká formálható eredményekre van szükségük. Ehhez célzott tudománykommunikációs készségek tartoznak.</p>
       </div>
       <div class="pillar">
         <span class="n">04</span>
@@ -147,7 +147,7 @@ permalink: /kvad/
     <details class="acc">
       <summary>Programozási alapismeretek, adatkezelés, adatvizualizáció <span class="plus">+</span></summary>
       <div class="body">
-        <p>A Python adattudományi alapjainak elsajátítása négy blokkban: a Google Colab és a Python alapszintaxisa; a NumPy és SciPy egyszerű szimulációkhoz és elemzésekhez; a Pandas adatok beolvasására és feldolgozására (Excel, CSV, txt); végül a Matplotlib ábrakészítésre. A kurzus végére a hallgató adatot olvas be, egyszerű statisztikákat számol, és ábrákon mutatja be az eredményt.</p>
+        <p>Az MI-támogatott, Python alapú adattudomány alapjainak elsajátítása négy blokkban: a Google Colab és a Python alapszintaxisa; a NumPy és SciPy egyszerű szimulációkhoz és elemzésekhez; a Pandas adatok beolvasására és feldolgozására (Excel, CSV, txt); végül a Matplotlib ábrakészítésre. A kurzus végére a hallgató adatot olvas be, egyszerű statisztikákat számol, és ábrákon mutatja be az eredményt.</p>
       </div>
     </details>
 

@@ -15,7 +15,7 @@ permalink: /kogtud/
   <div class="wrap">
     <p class="eyebrow">Mesterképzés · BME Kognitív Tudományi Tanszék</p>
     <h1>Számítógépes és kognitív idegtudomány</h1>
-    <p class="sub">Interdiszciplináris mesterszak az elme és az idegrendszer megismeréséről: észlelés, nyelv, tanulás, emlékezet, és ezek kísérleti, számítógépes és idegtudományi vizsgálata.</p>
+    <p class="sub">Interdiszciplináris mesterszak, melynek témája az elme és az idegrendszer: az észlelés, nyelv, tanulás, emlékezet, és ezek kísérleti, számítógépes és idegtudományi vizsgálata.</p>
     <p class="en">MSc in Computational and Cognitive Neuroscience</p>
     <div class="chips">
       <span class="chip">4 félév</span>
@@ -71,7 +71,7 @@ permalink: /kogtud/
       <div>
         <ul class="clean">
           <li>Alapvető kognitív folyamatok (észlelés, nyelv, tanulás, emlékezet) működése és szerepe a viselkedés szervezésében</li>
-          <li>Kognitív folyamatok idegrendszeri háttere és az idegrendszer vizsgálómódszerei</li>
+          <li>Kognitív folyamatok idegrendszeri háttere és az idegrendszer vizsgálatának módszerei</li>
           <li>A kognitív folyamatok vizsgálatának módszertani kérdései</li>
           <li>Kutatási készségek és eszközök: statisztika, programozás, EEG, szemmozgás-követés</li>
         </ul>
@@ -107,7 +107,7 @@ permalink: /kogtud/
     <div class="grid-2">
       <div>
         <p style="margin-top:0;color:var(--muted)">Tanszékünk 2004 óta működik az ország legnagyobb műszaki egyetemén, egy kiterjedt campus közepén. Barátságos és közvetlen környezetben, a gyakorlati oktatásra fektetve a hangsúlyt, amelyre laborjaink és gyakorlóhelyeink adnak lehetőséget. Az oktatásban és a kutatásban is fontos a hallgatókkal közös, egyéni és kiscsoportos munka.</p>
-        <p style="color:var(--muted)">Kutatásaink a nemzetközi tudományos életbe ágyazottan folynak, számos rangos publikációval. A tanszéken nemzetközi színvonalú Pszichológia Doktori Iskola is működik, amelynek munkájába a mesterszakos hallgatók is bekapcsolódhatnak.</p>
+        <p style="color:var(--muted)">Kutatásaink a nemzetközi tudomány élvonalába helyeznek bennünket, és ezt magas színvonalú publikációink is tükrözik. A tanszéken nemzetközi színvonalú Pszichológia Doktori Iskola is működik, amelynek munkájába a mesterszakos hallgatók is bekapcsolódhatnak.</p>
       </div>
       <div>
         <p class="eyebrow">Eszközök</p>
