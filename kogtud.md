@@ -106,8 +106,8 @@ permalink: /kogtud/
     <h2 class="section-title">Barátságos környezet, komoly eszközpark</h2>
     <div class="grid-2">
       <div>
-        <p style="margin-top:0;color:var(--muted)">Tanszékünk 2004 óta működik az ország legnagyobb műszaki egyetemén, egy kiterjedt campus közepén. Barátságos és közvetlen környezetben, a gyakorlati oktatásra fektetve a hangsúlyt, amelyre laborjaink és gyakorlóhelyeink adnak lehetőséget. Az oktatásban és a kutatásban is fontos a hallgatókkal közös, egyéni és kiscsoportos munka.</p>
-        <p style="color:var(--muted)">Kutatásaink a nemzetközi tudomány élvonalába helyeznek bennünket, és ezt magas színvonalú publikációink is tükrözik. A tanszéken nemzetközi színvonalú Pszichológia Doktori Iskola is működik, amelynek munkájába a mesterszakos hallgatók is bekapcsolódhatnak.</p>
+        <p style="margin-top:0;color:var(--muted)">Tanszékünk 2004 óta működik az ország legnagyobb műszaki egyetemén, egy kiterjedt campus közepén. Barátságos és közvetlen környezetben a gyakorlati oktatásra helyezzük a hangsúlyt: ezt laborjaink és gyakorlóhelyeink teszik lehetővé. Az oktatásban és a kutatásban is fontos a hallgatókkal közös, egyéni és kiscsoportos munka.</p>
+        <p style="color:var(--muted)">Kutatásaink nemzetközi színvonalúak, amit magas színvonalú publikációink is tükröznek. A tanszéken nemzetközi színvonalú Pszichológia Doktori Iskola is működik, amelynek munkájába a mesterszakos hallgatók is bekapcsolódhatnak.</p>
       </div>
       <div>
         <p class="eyebrow">Eszközök</p>

@@ -41,6 +41,8 @@ lead: A félév menetrendje és a tanszéki események egy helyen.
     scrolling="no"></iframe>
 </div>
 
+<p class="muted" style="margin-top:1rem">A naptár bal alsó sarkában található jelölőnégyzetekkel egyenként ki- és bekapcsolható az egyes naptárak megjelenítése. Ha valamelyik naptárt a saját Google-fiókodban is követni szeretnéd, kattints a naptár neve melletti három pontra, majd válaszd a „Hozzáadás a saját naptárhoz” lehetőséget – az események ezután a saját Google Naptáradban is megjelennek.</p>
+
 <style>
   .calendar-embed{border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff}
   .calendar-embed iframe{display:block;width:100%;height:700px}

@@ -14,10 +14,11 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml">
   </head>
 
-  <body>
+  <body{% if page.theme %} class="theme-{{ page.theme }}"{% endif %}>
 
     <!-- ============ TOP BAR / NAVIGATION ============
-         To add or rename a menu item, edit the <a> links below. -->
+         To add or rename a menu item, edit the <a> links below.
+         "Képzések" is a dropdown; its entries live in the .dropdown-panel. -->
     <header class="topbar">
       <div class="wrap">
         <a class="brand" href="{{ site.baseurl }}/" aria-label="{{ site.name }}">
@@ -27,11 +28,17 @@
           <span class="bars" aria-hidden="true"></span>
         </button>
         <nav id="site-nav">
-          <a class="navlink" href="{{ site.baseurl }}/">Hírek</a>
-          <a class="navlink" href="{{ site.baseurl }}/kogtud/">Kognitív MSc</a>
-          <a class="navlink" href="{{ site.baseurl }}/pszichologia/">Pszichológia MA</a>
-          <a class="navlink" href="{{ site.baseurl }}/kvad/">KVAD</a>
-          <a class="navlink" href="{{ site.baseurl }}/doktori/">Doktori Iskola</a>
+          <div class="dropdown">
+            <button class="navlink dropdown-toggle" type="button" aria-expanded="false" aria-controls="kepzesek-panel">
+              Képzések<span class="caret" aria-hidden="true"></span>
+            </button>
+            <div class="dropdown-panel" id="kepzesek-panel">
+              <a class="navlink" href="{{ site.baseurl }}/kogtud/">Számítógépes és kognitív idegtudomány MSc</a>
+              <a class="navlink" href="{{ site.baseurl }}/pszichologia/">Pszichológia MA</a>
+              <a class="navlink" href="{{ site.baseurl }}/kvad/">kognitív és viselkedéses adattudomány szakirányú továbbképzési szak (KVAD)</a>
+              <a class="navlink" href="{{ site.baseurl }}/doktori/">Doktori Iskola</a>
+            </div>
+          </div>
           <a class="navlink" href="{{ site.baseurl }}/munkatarsak/">Munkatársak</a>
           <a class="navlink" href="{{ site.baseurl }}/kutatas/">Kutatás</a>
           <a class="navlink" href="{{ site.baseurl }}/naptar/">Naptár</a>
@@ -67,6 +74,11 @@
           <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a><br>
           {{ site.contact.phone }}</p>
         </div>
+        <div class="footer-logos">
+          <img src="{{ site.baseurl }}/images/logos/logo_egyetem.png" alt="Budapesti Műszaki és Gazdaságtudományi Egyetem">
+          <img src="{{ site.baseurl }}/images/logos/logo_kar.png" alt="Természettudományi Kar">
+          <img src="{{ site.baseurl }}/images/logos/logo_tanszek.png" alt="Kognitív Tudományi Tanszék">
+        </div>
         <div class="fine">
           © {{ 'now' | date: "%Y" }} {{ site.name }}, BME TTK. A márkaszínek a BME arculati kézikönyv pontos értékeire cserélendők.
         </div>
@@ -85,6 +97,30 @@
           var open = nav.classList.toggle('open');
           btn.setAttribute('aria-expanded', open ? 'true' : 'false');
           btn.setAttribute('aria-label', open ? 'Menü bezárása' : 'Menü megnyitása');
+        });
+      })();
+    </script>
+
+    <!-- "Képzések" lenyíló menü nyitása/zárása. -->
+    <script>
+      (function () {
+        var dropdown = document.querySelector('.dropdown');
+        var toggle = document.querySelector('.dropdown-toggle');
+        if (!dropdown || !toggle) return;
+        function close() {
+          dropdown.classList.remove('open');
+          toggle.setAttribute('aria-expanded', 'false');
+        }
+        toggle.addEventListener('click', function (e) {
+          e.stopPropagation();
+          var open = dropdown.classList.toggle('open');
+          toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        });
+        document.addEventListener('click', function (e) {
+          if (!dropdown.contains(e.target)) close();
+        });
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape') close();
         });
       })();
     </script>

@@ -29,7 +29,7 @@ Fő kutatási irányaink:
 ## Munkatársak
 
 - **Pajkossy Péter** — kutatócsoport-vezető
-- **Kiss Eszter** — PhD-hallgató
+- **Kiss Eszter** — doktorandusz
 - **Gesztesi Gábor** — tudományos munkatárs
 - **Albi Ádám**
 - **Bényei Gábor**

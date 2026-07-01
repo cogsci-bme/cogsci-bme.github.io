@@ -42,7 +42,7 @@ A benyújtandó dokumentumok [listája](http://www.ttk.bme.hu/node/5297){:target
 
 ## Útmutatók és kiegészítő információ {#utmutato}
 
-- [Útmutató]({{ site.baseurl }}/dokumentumtar/doktori/utmutato_ertekezes_elkeszitesehez.pdf){:target="_blank"} a doktori értekezéshez doktori hallgatók és bírálók számára
+- [Útmutató]({{ site.baseurl }}/dokumentumtar/doktori/utmutato_ertekezes_elkeszitesehez.pdf){:target="_blank"} a doktori értekezéshez doktoranduszok és bírálók számára
 - [Forgatókönyv]({{ site.baseurl }}/dokumentumtar/doktori/forgatokonyv_doktori_vedeshez.pdf){:target="_blank"} a doktori védés lebonyolításához
 
 Fokozatszerzéssel kapcsolatos további kérdés esetén a Dékáni Hivatal munkatársai segítenek: Lénártné Kelemen Sarolta, K ép. 1. em. 90., (+36-1) 463-3754, [lenartne.sarolta@ttdh.bme.hu](mailto:lenartne.sarolta@ttdh.bme.hu).

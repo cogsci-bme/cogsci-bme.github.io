@@ -29,8 +29,8 @@ valamint a Pszichológia Doktori Iskola képzéseiben vesznek részt.
 
 - **Dr. Demeter Gyula** — kutatócsoport-vezető, habilitált egyetemi docens,
   neuropszichológiai szakpszichológus
-- **Lencsés Anita** — pszichológus, PhD-hallgató
-- **Mikula Bernadett** — pszichológus, PhD-hallgató
+- **Lencsés Anita** — pszichológus, doktorandusz
+- **Mikula Bernadett** — pszichológus, doktorandusz
 
 Mesterszakos hallgatók (TDK, diplomamunka): Klekner Hanga Csenge, Tóth Lilla
 Natália, Nagy Rebeka Luca.

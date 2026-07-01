@@ -2,12 +2,13 @@
 layout: default
 title: Kognitív és viselkedéses adattudomány
 permalink: /kvad/
+theme: green
 ---
 
 <!-- HERO -->
 <section class="hero">
   <svg class="backdrop" viewBox="0 0 1200 520" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
-    <g fill="#7fb0ff" opacity="0.55">
+    <g fill="#7fd9b3" opacity="0.55">
       <circle cx="70" cy="430" r="4"/><circle cx="130" cy="455" r="3"/><circle cx="155" cy="395" r="4"/>
       <circle cx="210" cy="410" r="3"/><circle cx="250" cy="378" r="5"/><circle cx="300" cy="402" r="3"/>
       <circle cx="340" cy="350" r="4"/><circle cx="380" cy="378" r="3"/><circle cx="430" cy="332" r="4"/>
@@ -19,7 +20,7 @@ permalink: /kvad/
       <circle cx="190" cy="345" r="3"/><circle cx="410" cy="392" r="3"/><circle cx="640" cy="338" r="3"/>
       <circle cx="860" cy="300" r="3"/><circle cx="1000" cy="262" r="3"/><circle cx="540" cy="368" r="3"/>
     </g>
-    <line class="draw" x1="60" y1="440" x2="1130" y2="170" stroke="#bcd6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <line class="draw" x1="60" y1="440" x2="1130" y2="170" stroke="#bfeed7" stroke-width="2.5" stroke-linecap="round"/>
   </svg>
   <div class="wrap">
     <p class="eyebrow">Szakirányú továbbképzési szak · BME Kognitív Tudományi Tanszék</p>
@@ -33,8 +34,8 @@ permalink: /kvad/
       <span class="chip">Belépő: BA / BSc bármely területről</span>
     </div>
     <div class="hero-actions">
-      <a class="btn btn--solid" href="#info">Jelentkezés és feltételek</a>
-      <a class="btn btn--ghost" href="#tanterv">Tanterv megtekintése</a>
+      <a class="btn btn--solid" href="#tanterv">Tanterv megtekintése</a>
+      <a class="btn btn--ghost" href="#info">Jelentkezés és feltételek</a>
     </div>
   </div>
 </section>
@@ -45,8 +46,8 @@ permalink: /kvad/
     <div>
       <p class="eyebrow">A képzésről</p>
       <h2 class="section-title">Az emberi viselkedésből cselekvőképes tudás</h2>
-      <p class="lead">A képzés célja olyan szakemberek képzése, akik képesek a humán viselkedésre és kognitív folyamatokra vonatkozó adatok szakszerű gyűjtésére, elemzésére és értelmezésére, valamint az eredmények megalapozott javaslatokká alakítására döntéshozók számára.</p>
-      <p style="margin-top:1.2rem;color:var(--muted)">A hallgatók megismerik a kísérlettervezés, a kérdőíves adatfelvétel és egyes pszichofiziológiai mérési módszerek alapelveit, és gyakorlati betekintést nyernek a modern statisztikai és gépi tanulási eljárások alkalmazásába, beleértve a mesterséges intelligencia támogatta munkafolyamatokat is. A megszerzett tudás kutatási és ipari környezetben egyaránt hasznosítható: digitális termékek használhatósági vizsgálata, egészségügyi és gyógyszerkutatási adatelemzés, oktatáspolitikai és más döntéstámogató rendszerek.</p>
+      <p class="lead">A célunk olyan szakemberek képzése, akik képesek az emberi viselkedésről és kognitív folyamatokról szóló adatok szakszerű begyűjtésére, elemzésére és értelmezésére, valamint az eredményeket megalapozott javaslatokká tudják alakítani döntéshozók számára.</p>
+      <p style="margin-top:1.2rem;color:var(--muted)">A résztvevők megismerik a kísérlettervezés, a kérdőíves adatfelvétel és egyes pszichofiziológiai mérési módszerek alapelveit, és gyakorlati betekintést nyernek a modern statisztikai és gépi tanulási eljárások alkalmazásába, különös hangsúlyt fektetve a mesterséges intelligencia támogatta munkafolyamatokra (prompt engineering, context engineering). A megszerzett tudás kutatási és ipari környezetben egyaránt hasznosítható.</p>
     </div>
     <div>
       <p class="eyebrow">Kinek szól</p>
@@ -54,7 +55,7 @@ permalink: /kvad/
       <ul class="clean">
         <li>kutatás és tudományos munka</li>
         <li>felhasználói élmény (UX) és digitális termékfejlesztés</li>
-        <li>egészségügy és gyógyszerkutatás</li>
+        <li>knowledge capture (tudásmenedzsment)</li>
         <li>oktatás és oktatáspolitika</li>
         <li>humán erőforrás és egyéb alkalmazott területek</li>
       </ul>
@@ -77,7 +78,7 @@ permalink: /kvad/
       <div class="pillar">
         <span class="n">02</span>
         <h3>Területspecifikus tudás</h3>
-        <p>Egy reakcióidő-eloszlás, egy szemkövetési rekord vagy egy önjellemző kérdőív értelmezéséhez kognitív pszichológiai és viselkedéstudományi ismeretek kellenek. Ezek oktatása a tanterv része.</p>
+        <p>Emberektől származó, nem feltétlenül laboratóriumi körülmények között gyűjtött adatok gyűjtéséhez és értelmezéséhez kognitív pszichológiai és viselkedéstudományi ismeretek kellenek. Ezek oktatása a tanterv része.</p>
       </div>
       <div class="pillar">
         <span class="n">03</span>
@@ -98,7 +99,7 @@ permalink: /kvad/
   <div class="wrap">
     <p class="eyebrow">Felépítés</p>
     <h2 class="section-title">Tanterv: 60 kredit, két félév</h2>
-    <p class="lead" style="margin-bottom:2rem">A képzés három modulból áll. A kontaktórák tömbösített blokkokban zajlanak, az online elérhető anyagokat a félév elején bocsátjuk rendelkezésre.</p>
+    <p class="lead" style="margin-bottom:2rem">A képzés három modulból és egy szabadon választott tárgyból áll. A kontaktórák tömbösített blokkokban zajlanak, az online elérhető anyagokat a félév elején bocsátjuk rendelkezésre. A tárgyak nevére kattintva a rövid tárgyleírás is megjelenik.</p>
 
     <div class="modules">
       <div class="module">
@@ -113,111 +114,104 @@ permalink: /kvad/
       </div>
       <div class="module">
         <span class="tag">Modul 03</span>
-        <span class="cr">10</span>
+        <span class="cr">7</span>
         <span class="nm">Szakdolgozat</span>
+      </div>
+      <div class="module">
+        <span class="tag">+1</span>
+        <span class="cr">3</span>
+        <span class="nm">Szabadon választott tárgy a BME kínálatából</span>
       </div>
     </div>
 
     <div class="term">
       <h3>1. félév <span class="tcr">30 kredit</span></h3>
-      <div class="courserow"><span class="cname">Programozási alapismeretek, adatkezelés, adatvizualizáció</span><span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span></span></div>
-      <div class="courserow"><span class="cname">Inferenciális statisztika viselkedéses adatokon</span><span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span></span></div>
-      <div class="courserow"><span class="cname">Pszichometriai alapok</span><span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span></span></div>
-      <div class="courserow"><span class="cname">Kísérlettervezés, adatgyűjtés szoftveres megoldásai</span><span class="cmeta"><span class="mtag">M02</span><span class="ccr">6</span></span></div>
-      <div class="courserow"><span class="cname">Humán viselkedéses kísérletek módszertani és etikai kérdései</span><span class="cmeta"><span class="mtag">M02</span><span class="ccr">6</span></span></div>
+
+      <details class="acc">
+        <summary>Programozási alapismeretek, adatkezelés, adatvizualizáció <span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>Az MI-támogatott adattudomány alapjainak elsajátítása négy blokkban: az adatelemzés alapvető digitális eszközei; egyszerű szimulációk és elemzések; adatok beolvasása és feldolgozása; ábrák és vizualizációk készítése. A kurzus végére a hallgató adatot olvas be, egyszerű statisztikákat számol, és ábrákon mutatja be az eredményt.</p>
+        </div>
+      </details>
+
+      <details class="acc">
+        <summary>Inferenciális statisztika viselkedéses adatokon <span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>Bevezetés a viselkedéses adatok inferenciális statisztikájába a jel/zaj fogalmán keresztül. Adattípusok és variabilitás; parametrikus és nonparametrikus módszerek; statisztikai erőfogalom, hatásméretek; előregisztráció.</p>
+          <p class="src">Ajánlott: Navarro, Foxcroft &amp; Faulkenberry, Learning statistics with JASP; Poldrack, Statistical thinking for the 21st century; Silver, The signal and the noise.</p>
+        </div>
+      </details>
+
+      <details class="acc">
+        <summary>Pszichometriai alapok <span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>A pszichológiai mérés alapelvei, módszerei és korlátai. A hallgatók megismerik, hogyan dönthető el, mit, mivel és milyen szinten érdemes mérni, és hogy a vizsgált tulajdonságok miért csak közvetett módon, mérőeszközökön keresztül ragadhatók meg. Szó esik a mérés megbízhatóságáról és pontosságáról, valamint arról, hogyan változhat egy mérőeszköz működése idővel vagy csoportok között. Műhelymunka keretében a hallgatók egy teljes mérőeszköz-vizsgálatot végigvisznek.</p>
+        </div>
+      </details>
+
+      <details class="acc">
+        <summary>Kísérlettervezés, adatgyűjtés szoftveres megoldásai <span class="cmeta"><span class="mtag">M02</span><span class="ccr">6</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>A kognitív és viselkedéses kutatás adatgyűjtő eszközeinek elmélete és gyakorlata. Előzetes programozási tapasztalat nem szükséges. Áttekinti a kész, grafikus felületű megoldásokat és a rugalmasabb, kódalapú eszközöket, majd ezek gyakorlatorientált használatát: reakcióidő-mérés, ingerek megjelenítése, kérdőívek, elágazó logika. Záró feladat: önálló kísérlet megtervezése és bemutatása.</p>
+          <p class="src">Ajánlott: Peirce, MacAskill &amp; Hirst, Building experiments in PsychoPy; a szoftverek hivatalos dokumentációi.</p>
+        </div>
+      </details>
+
+      <details class="acc">
+        <summary>Humán viselkedéses kísérletek módszertani és etikai kérdései <span class="cmeta"><span class="mtag">M02</span><span class="ccr">6</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>Felkészítés megbízható, érvényes és etikus adatgyűjtésre valós, alkalmazott környezetben. A kutatástervezés egy gyakorlati kérdésből indul ki: honnan tudjuk, hogy egy beavatkozás valóban hat? Konkrét példákon keresztül nézzük végig a kísérleti és megfigyeléses vizsgálati elrendezéseket, és azt, hogyan ismerhetők fel és kerülhetők el az eredményeket veszélyeztető hibaforrások. Végül áttekintjük az etikai és jogi kereteket: engedélyezés, beleegyezés, sérülékeny csoportok védelme és adatvédelem.</p>
+          <p class="src">Ajánlott: Szokolszky Á., A pszichológiai kutatás módszertana; Morling, Research methods in psychology.</p>
+        </div>
+      </details>
     </div>
 
     <div class="term">
       <h3>2. félév <span class="tcr">30 kredit</span></h3>
-      <div class="courserow"><span class="cname">Gépi tanulás humán adatokon</span><span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span></span></div>
-      <div class="courserow"><span class="cname">Hierarchikus és többváltozós statisztikai módszerek</span><span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span></span></div>
-      <div class="courserow"><span class="cname">Integrált módszertani labor</span><span class="cmeta"><span class="mtag">M02</span><span class="ccr">4</span></span></div>
-      <div class="courserow"><span class="cname">Eredmények kommunikációja, prezentációja</span><span class="cmeta"><span class="mtag">M02</span><span class="ccr">4</span></span></div>
-      <div class="courserow"><span class="cname">Projektmunka</span><span class="cmeta"><span class="mtag">M03</span><span class="ccr">10</span></span></div>
+
+      <details class="acc">
+        <summary>Gépi tanulás humán adatokon <span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>Gépi tanulási módszerek alkalmazása humán viselkedéses és kognitív adatokon: mintázatok felismerése és előrejelzés készítése, a modellek értelmezhetőségére és korlátaira fókuszálva. <span class="ph">[a részletes tematika pontosítandó]</span></p>
+        </div>
+      </details>
+
+      <details class="acc">
+        <summary>Hierarchikus és többváltozós statisztikai módszerek <span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>A statisztikai modellezés a modell fogalmára épül: a változók közötti összefüggés leírására. Bevezetés a leggyakoribb statisztikai próbák közös logikájába, majd ennek kiterjesztése: egyszerű és többváltozós regresszió, a modellek helyességének ellenőrzése, modellek összehasonlítása, kétértékű kimenetek elemzése, valamint az egymásba ágyazott, csoportos szerkezetű adatok kezelése.</p>
+          <p class="src">Ajánlott: Gelman, Hill &amp; Vehtari, Regression and other stories; Lindeløv, Common statistical tests are linear models; Spiegelhalter, The Art of Statistics.</p>
+        </div>
+      </details>
+
+      <details class="acc">
+        <summary>Integrált módszertani labor <span class="cmeta"><span class="mtag">M02</span><span class="ccr">4</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>Átfogó kép a kognitív és viselkedéses kutatás módszertani eszköztáráról, a gyakorlati megvalósításra fókuszálva. A Tanszék kutatócsoportjai mutatják be saját paradigmáikat, eszközeiket és módszertani kihívásaikat, a viselkedéses és kérdőíves módszerektől a fiziológiai mérésekig. Hangsúly a módszer kritikus megválasztásán és kombinálásán. Záró követelmény: egy választott kérdéshez illő részletes kutatási terv.</p>
+        </div>
+      </details>
+
+      <details class="acc">
+        <summary>Eredmények kommunikációja, prezentációja <span class="cmeta"><span class="mtag">M02</span><span class="ccr">4</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>A saját szakmai, kutatási vagy fejlesztési eredmények világos, strukturált és a célközönséghez igazított kommunikálása írásban, szóban és vizuálisan. A fő üzenet kiemelése, a módszerek, adatok és eredmények bemutatása, az értelmezés. Eltérő közönségek (intézményi, szakmai, laikus, tudományos) eltérő tudásszintje. A hallgatók poszter és írásos beszámoló formájában, rövidebb és hosszabb verzióban is bemutatják munkájukat.</p>
+        </div>
+      </details>
+
+      <details class="acc">
+        <summary>Projektmunka / szakdolgozat <span class="cmeta"><span class="mtag">M03</span><span class="ccr">7</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>A képzés záró tárgya, amely egy összefüggő, alkalmazott projektben integrálja a megszerzett tudást. Egyénileg vagy 2-3 fős csoportban teljesíthető, egy valós alkalmazott problémára épül, és lefedi a teljes munkafolyamatot: a kérdés megfogalmazásától és a módszertan megválasztásától az etikai megfontolásokon, adatkezelésen és -vizualizáción, az elemzésen át az eredmények értelmezéséig és a szakdolgozatban történő bemutatásáig. A téma az alkalmazási területekhez kapcsolódik: egészségügy, orvosi kutatás, oktatás, illetve adatvezérelt ipari vagy szervezeti kontextus.</p>
+        </div>
+      </details>
+
+      <details class="acc">
+        <summary>Szabadon választott tárgy <span class="cmeta"><span class="mtag">+1</span><span class="ccr">3</span><span class="plus">+</span></span></summary>
+        <div class="body">
+          <p>A BME teljes kurzuskínálatából szabadon választható tárgy, a hallgató érdeklődése szerint.</p>
+        </div>
+      </details>
     </div>
-  </div>
-</section>
-
-<!-- TÁRGYLEÍRÁSOK -->
-<section class="section section--tint">
-  <div class="wrap">
-    <p class="eyebrow">Tárgyleírások</p>
-    <h2 class="section-title">Mit tanulsz az egyes tárgyakon</h2>
-
-    <details class="acc">
-      <summary>Programozási alapismeretek, adatkezelés, adatvizualizáció <span class="plus">+</span></summary>
-      <div class="body">
-        <p>Az MI-támogatott, Python alapú adattudomány alapjainak elsajátítása négy blokkban: a Google Colab és a Python alapszintaxisa; a NumPy és SciPy egyszerű szimulációkhoz és elemzésekhez; a Pandas adatok beolvasására és feldolgozására (Excel, CSV, txt); végül a Matplotlib ábrakészítésre. A kurzus végére a hallgató adatot olvas be, egyszerű statisztikákat számol, és ábrákon mutatja be az eredményt.</p>
-      </div>
-    </details>
-
-    <details class="acc">
-      <summary>Inferenciális statisztika viselkedéses adatokon <span class="plus">+</span></summary>
-      <div class="body">
-        <p>Bevezetés a viselkedéses adatok inferenciális statisztikájába a jel/zaj fogalmán keresztül. Adattípusok és variabilitás; klasszikus tesztek (korreláció, khí-négyzet, t-teszt) és a szignifikancia értelmezése; nonparametrikus és permutációs módszerek, ha a modellfeltételek nem teljesülnek; végül tervezés a jelre: statisztikai erő, hatásméretek, többszörös összehasonlítások korrekciója és előregisztráció. Az elemzések Pythonban, Colab környezetben készülnek, az MI használata a munkafolyamat természetes része.</p>
-        <p class="src">Ajánlott: Navarro, Foxcroft &amp; Faulkenberry, Learning statistics with JASP; Poldrack, Statistical thinking for the 21st century; Silver, The signal and the noise.</p>
-      </div>
-    </details>
-
-    <details class="acc">
-      <summary>Pszichometriai alapok <span class="plus">+</span></summary>
-      <div class="body">
-        <p>A pszichológiai mérés alapelvei, módszerei és korlátai. A hallgatók eldöntik, mit, mivel, milyen szinten és mikor érdemes mérni. Központi gondolat, hogy a konstruktumok nem közvetlenül megfigyelhetők, ezért indikátorokon keresztül mérjük őket. Fókuszban a reliabilitás, validitás, mérési hiba és torzítás, szenzitivitás és specificitás, standardizálás, valamint a mérési invariancia, idői felbontással (keresztmetszeti, ismételt, longitudinális) együtt. Műhelymunka keretében teljes validációs feladatot visznek végig.</p>
-      </div>
-    </details>
-
-    <details class="acc">
-      <summary>Kísérlettervezés, adatgyűjtés szoftveres megoldásai <span class="plus">+</span></summary>
-      <div class="body">
-        <p>A kognitív és viselkedéses kutatás adatgyűjtő szoftvereinek elmélete és gyakorlata, Python-alapon. Előzetes programozási tapasztalat nem szükséges. Áttekinti a grafikus felületű eszközöket (Labvanced, Gorilla) és a Python-alapú megoldásokat (PsychoPy, jsPsych), majd a PsychoPy gyakorlatorientált tárgyalása következik: reakcióidő-paradigmák, inger-prezentáció, kérdőívek, elágazó logika, a Builder és a Coder kombinált használata. Záró feladat: önálló paradigma implementálása és bemutatása.</p>
-        <p class="src">Ajánlott: Peirce, MacAskill &amp; Hirst, Building experiments in PsychoPy; a szoftverek hivatalos dokumentációi.</p>
-      </div>
-    </details>
-
-    <details class="acc">
-      <summary>Humán viselkedéses kísérletek módszertani és etikai kérdései <span class="plus">+</span></summary>
-      <div class="body">
-        <p>Felkészítés megbízható, érvényes és etikus adatgyűjtésre alkalmazott környezetben. A kutatástervezés alaplogikája egy gyakorlati kérdésből indul: honnan tudjuk, hogy egy beavatkozás valóban hat? Kísérleti, megfigyeléses és kvázi-kísérleti elrendezések, A/B teszttől a faktoriális tervekig, konkrét példákon. Az érvényességet fenyegető tényezők felismerése és dokumentálása. Végül az etikai és jogi keretek: Helsinki Nyilatkozat, Belmont-jelentés, etikai engedélyezés, beleegyezés, sérülékeny csoportok és GDPR.</p>
-        <p class="src">Ajánlott: Szokolszky Á., A pszichológiai kutatás módszertana; Morling, Research methods in psychology.</p>
-      </div>
-    </details>
-
-    <details class="acc">
-      <summary>Gépi tanulás humán adatokon <span class="plus">+</span></summary>
-      <div class="body">
-        <p>Gépi tanulási módszerek alkalmazása humán viselkedéses és kognitív adatokon: felügyelt tanulás, változószelekció és predikció tabuláris adatokon, a modellek értelmezhetőségére és korlátaira fókuszálva. <span class="ph">[a részletes tematika pontosítandó]</span></p>
-      </div>
-    </details>
-
-    <details class="acc">
-      <summary>Hierarchikus és többváltozós statisztikai módszerek <span class="plus">+</span></summary>
-      <div class="body">
-        <p>A statisztikai modellezés a modell fogalmára épül: a változók közötti összefüggés explicit leírására. A hipotézistesztek egységes keretben, a t-teszt, a korreláció és az ANOVA mint a lineáris modell speciális esetei. Témák: egyszerű és többváltozós regresszió, modelldiagnosztika (reziduálisok, linearitás, homoszkedaszticitás), modellösszehasonlítás (AIC, likelihood ratio), logisztikus regresszió bináris kimenetelekre, valamint hierarchikus adatok és random interceptek (mixed modellek Pythonban).</p>
-        <p class="src">Ajánlott: Gelman, Hill &amp; Vehtari, Regression and other stories; Lindeløv, Common statistical tests are linear models; Spiegelhalter, The Art of Statistics.</p>
-      </div>
-    </details>
-
-    <details class="acc">
-      <summary>Integrált módszertani labor <span class="plus">+</span></summary>
-      <div class="body">
-        <p>Átfogó kép a kognitív és viselkedéses kutatás módszertani eszköztáráról, a gyakorlati megvalósításra fókuszálva. A Tanszék kutatócsoportjai mutatják be saját paradigmáikat, eszközeiket és módszertani kihívásaikat, a viselkedéses és kérdőíves módszerektől a fiziológiai mérésekig (EEG, szemmozgás-követés). Hangsúly a módszer kritikus megválasztásán és kombinálásán. Záró követelmény: egy választott kérdéshez illő részletes kutatási terv.</p>
-      </div>
-    </details>
-
-    <details class="acc">
-      <summary>Eredmények kommunikációja, prezentációja <span class="plus">+</span></summary>
-      <div class="body">
-        <p>A saját szakmai, kutatási vagy fejlesztési eredmények világos, strukturált és a célközönséghez igazított kommunikálása írásban, szóban és vizuálisan. A fő üzenet kiemelése, a módszerek, adatok és eredmények bemutatása, az értelmezés. Eltérő közönségek (intézményi, szakmai, laikus, tudományos) eltérő tudásszintje. A hallgatók poszter és írásos beszámoló formájában, rövidebb és hosszabb verzióban is bemutatják munkájukat.</p>
-      </div>
-    </details>
-
-    <details class="acc">
-      <summary>Projektmunka <span class="plus">+</span></summary>
-      <div class="body">
-        <p>A képzés záró tárgya, amely egy összefüggő, alkalmazott projektben integrálja a megszerzett tudást. Egyénileg vagy 2-3 fős csoportban teljesíthető, egy valós alkalmazott problémára épül, és lefedi a teljes munkafolyamatot: a kérdés megfogalmazásától és a módszertan megválasztásától az etikai megfontolásokon, adatkezelésen és -vizualizáción, az elemzésen át az eredmények értelmezéséig és bemutatásáig. A téma az alkalmazási területekhez kapcsolódik: egészségügy, orvosi kutatás, oktatás, illetve adatvezérelt ipari vagy szervezeti kontextus.</p>
-      </div>
-    </details>
-
   </div>
 </section>
 
@@ -230,20 +224,20 @@ permalink: /kvad/
       <div class="fact"><dt>Munkarend</dt><dd>Részidős, levelező</dd></div>
       <div class="fact"><dt>Kontaktórák</dt><dd>Tömbösített blokkokban, magyar nyelven</dd></div>
       <div class="fact"><dt>Tananyag</dt><dd>Online elérhető; háttéranyag magyarul és angolul</dd></div>
-      <div class="fact"><dt>Meghirdetés</dt><dd>Keresztféléves rendszerben, évente</dd></div>
+      <div class="fact"><dt>Meghirdetés</dt><dd>Keresztféléves rendszerben, februári kezdettel</dd></div>
       <div class="fact"><dt>Időbeosztás</dt><dd>A hallgatói igények előzetes felmérése alapján</dd></div>
       <div class="fact"><dt>Jelentkezési feltétel</dt><dd>Alapképzéses (BA / BSc) oklevél bármely területen</dd></div>
     </dl>
 
     <div class="applybox" style="margin-top:3rem">
       <h2>Jelentkezés</h2>
-      <p>A következő tanévre szóló jelentkezés részletei és a felvételi menete az alábbiakban. A díjat, a határidőt és a jelentkezési felületet a véglegesítés után frissítjük.</p>
+      <p>A jelentkezés részletei alább olvashatók; a pontos határidőt hamarosan közöljük.</p>
       <dl class="facts" style="margin-top:1.6rem">
-        <div class="fact"><dt>Szakfelelős</dt><dd><span class="ph">[szakfelelős neve]</span></dd></div>
-        <div class="fact"><dt>Kapcsolat</dt><dd><span class="ph">[kapcsolat e-mail]</span></dd></div>
-        <div class="fact"><dt>Költségtérítés</dt><dd><span class="ph">[díj]</span></dd></div>
-        <div class="fact"><dt>Jelentkezési határidő</dt><dd><span class="ph">[határidő]</span></dd></div>
-        <div class="fact"><dt>Jelentkezés</dt><dd><a href="#"><span class="ph">[jelentkezési link]</span></a></dd></div>
+        <div class="fact"><dt>Szakfelelős</dt><dd>Babarczy Anna</dd></div>
+        <div class="fact"><dt>Kapcsolat</dt><dd><a href="mailto:babarczy.anna@ttk.bme.hu">babarczy.anna@ttk.bme.hu</a></dd></div>
+        <div class="fact"><dt>Tandíj</dt><dd>Önköltséges, félévenként 450 ezer forint</dd></div>
+        <div class="fact"><dt>Jelentkezési határidő</dt><dd>Részletek hamarosan</dd></div>
+        <div class="fact"><dt>Jelentkezés</dt><dd>2026 ősszel a felvi.hu-n keresztül. Érdeklődők most <a href="https://forms.cloud.microsoft/e/CJWqdW9tJs">regisztrálhatnak</a>.</dd></div>
       </dl>
     </div>
   </div>

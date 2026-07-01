@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: Kultúra és megismerés kutatócsoport
+title: Kultúra és Megismerés Kutatócsoport
 pi: Rácz Péter
 permalink: /kutatocsoportok/kultura-es-megismeres/
 email: racz.peter.marton@ttk.bme.hu
@@ -15,8 +15,8 @@ Az emberi nyelv közös rituálé. Olyan, mint a fogócska, a kórus föllépés
 ## Munkatársak
 
 - **Rácz Péter** — kutatócsoport-vezető
-- **Pokk Henrietta** — PhD-hallgató
-- **őtmégnemvettükfelrendesen** - PhD-hallgató
+- **Pokk Henrietta** — doktorandusz
+- **TBA** — doktorandusz
 
 ## Válogatott publikációk
 

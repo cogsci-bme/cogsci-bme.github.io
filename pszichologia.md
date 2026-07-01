@@ -2,6 +2,7 @@
 layout: default
 title: Pszichológia MA
 permalink: /pszichologia/
+theme: red
 ---
 
 <section class="hero">

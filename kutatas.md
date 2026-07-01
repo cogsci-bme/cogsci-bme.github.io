@@ -8,7 +8,7 @@ permalink: /kutatas/
   <div class="wrap">
     <p class="eyebrow">Tanszék</p>
     <h1>Kutatás</h1>
-    <p class="sub">KKutatásaink a nemzetközi tudomány élvonalába helyeznek bennünket, és ezt magas színvonalú publikációink is tükrözik. Eszközparkunk része az EEG, fMRI, szemmozgás-követés és transzkraniális egyenáram-ingerlés (tDCS).</p>
+    <p class="sub">Kutatásaink nemzetközi színvonalúak, amit magas színvonalú publikációink is tükröznek. Eszközparkunk része az EEG, fMRI, szemmozgás-követés és transzkraniális egyenáram-ingerlés (tDCS).</p>
   </div>
 </section>
 

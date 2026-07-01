@@ -21,7 +21,7 @@ lead: A doktori képzésre való jelentkezés menete, a benyújtandó dokumentum
 
 **A doktori iskola vezetője:** Dr. Lukács Ágnes, egyetemi tanár, [lukacs.agnes@ttk.bme.hu](mailto:lukacs.agnes@ttk.bme.hu)
 
-**Titkárság:** BME Természettudományi Kar Dékáni Hivatala — Géczi Nikolett (PhD hallgatók), [geczi.nikolett@ttk.bme.hu](mailto:geczi.nikolett@ttk.bme.hu); Lénártné Kelemen Sarolta (PhD eljárások), [lenartne.sarolta@ttdh.bme.hu](mailto:lenartne.sarolta@ttdh.bme.hu)
+**Titkárság:** BME Természettudományi Kar Dékáni Hivatala — Géczi Nikolett (doktoranduszok), [geczi.nikolett@ttk.bme.hu](mailto:geczi.nikolett@ttk.bme.hu); Lénártné Kelemen Sarolta (PhD eljárások), [lenartne.sarolta@ttdh.bme.hu](mailto:lenartne.sarolta@ttdh.bme.hu)
 
 **Cím:** 1111 Budapest, Műegyetem rkp. 3. K ép. I. em. 18.
 **Telefon:** (+36-1) 463-1919; (+36-1) 463-2786
@@ -42,7 +42,7 @@ A jelentkezéseket elektronikusan kell benyújtani a [TTK honlapján](http://www
 
 **A felvételi döntés időpontja:** 2026. július.
 
-A jelentkezés előtt a hallgatónak kutatási témájáról egy témavezetővel egyeztetnie kell.
+A jelentkezés előtt a jelentkezőnek kutatási témájáról egy témavezetővel egyeztetnie kell.
 
 **A pályázás során az alábbi dokumentumokat kell benyújtani:**
 

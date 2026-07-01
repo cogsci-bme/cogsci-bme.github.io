@@ -153,9 +153,11 @@ header.topbar{
 .hero .en{font-family:var(--mono);font-size:.8rem;letter-spacing:.04em;color:#aac6f5;margin:0 0 2rem}
 
 .chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:.4rem}
+/* Not a button: flat fill + small radius, deliberately distinct from the
+   pill-shaped, bordered/solid .btn elements that sit right next to it. */
 .chip{
   font-family:var(--mono);font-size:.74rem;letter-spacing:.02em;
-  border:1px solid rgba(255,255,255,.28);border-radius:999px;
+  background:rgba(255,255,255,.14);border-radius:6px;
   padding:.42rem .8rem;color:#eaf1fb;
 }
 
@@ -183,7 +185,9 @@ header.topbar{
    Topic tags (curriculum areas / fields / outcomes)
    ----------------------------------------------------------------- */
 .tags{display:flex;flex-wrap:wrap;gap:10px;margin-top:1.2rem}
-.tags span{font-family:var(--mono);font-size:.78rem;border:1px solid var(--line);border-radius:999px;padding:.4rem .85rem;background:#fff;color:var(--ink)}
+/* Informational, not clickable: small radius + tinted fill rather than
+   the pill/bordered shape reserved for buttons. */
+.tags span{font-family:var(--mono);font-size:.78rem;border-radius:6px;padding:.4rem .85rem;background:var(--bg-tint);color:var(--ink)}
 .section--tint .tags span{background:var(--bg)}
 
 /* -----------------------------------------------------------------
@@ -352,3 +356,64 @@ footer.site .fine{grid-column:1/-1;border-top:1px solid rgba(255,255,255,.18);pa
 .contact-grid{display:grid;gap:clamp(20px,4vw,40px);margin-top:1.5rem}
 @media(min-width:720px){.contact-grid{grid-template-columns:1fr 1fr}}
 .contact-grid iframe{width:100%;height:320px;border:0;border-radius:14px}
+
+/* --- footer logo strip (university / faculty / department) --- */
+footer.site .footer-logos{grid-column:1/-1;display:flex;align-items:center;flex-wrap:wrap;gap:28px;padding-top:6px}
+footer.site .footer-logos img{height:42px;width:auto;max-width:150px;object-fit:contain;filter:brightness(0) invert(1);opacity:.92}
+
+/* -----------------------------------------------------------------
+   "Képzések" dropdown menu
+   ----------------------------------------------------------------- */
+.dropdown{position:relative}
+.topbar nav .dropdown-toggle{
+  display:inline-flex;align-items:center;gap:6px;
+  background:none;border:0;padding:0;font:inherit;color:var(--ink);cursor:pointer;
+}
+.dropdown-toggle .caret{
+  width:0;height:0;margin-top:2px;
+  border-left:4px solid transparent;border-right:4px solid transparent;border-top:5px solid currentColor;
+  opacity:.55;transition:transform .15s ease;
+}
+.dropdown.open .dropdown-toggle .caret{transform:rotate(180deg)}
+@media (prefers-reduced-motion:reduce){.dropdown-toggle .caret{transition:none}}
+
+@media(min-width:760px){
+  .dropdown-panel{
+    position:absolute;top:100%;left:0;margin-top:14px;min-width:300px;
+    background:#fff;border:1px solid var(--line);border-radius:12px;
+    box-shadow:0 14px 30px rgba(20,30,50,.14);padding:8px;display:none;
+  }
+  .dropdown.open .dropdown-panel{display:block}
+  .dropdown-panel a.navlink{display:block;padding:10px 12px;border-radius:8px;font-size:.86rem;line-height:1.3;font-weight:500}
+  .dropdown-panel a.navlink:hover{background:var(--bg-tint);text-decoration:none}
+}
+@media(max-width:759.98px){
+  .topbar nav .dropdown-toggle{display:flex;width:100%;justify-content:space-between;padding:12px 22px;font-size:1rem}
+  .dropdown-panel{margin:0 22px 8px;padding-left:14px;border-left:2px solid var(--line)}
+  .dropdown-panel a.navlink{padding:8px;font-size:.92rem}
+}
+
+/* -----------------------------------------------------------------
+   Per-page colour themes. Add `theme: red|green|lightblue` to a
+   page's front matter (see _layouts/default.html) to reskin the
+   whole page — header and footer included — in that palette. Leave
+   `theme` out to keep the site default (navy/blue).
+   ----------------------------------------------------------------- */
+.theme-red{
+  --brand-deep:#7d1d2c;
+  --brand-bright:#b81d2e;
+  --bg-tint:#faf3f4;
+  --line:#e7dde0;
+}
+.theme-green{
+  --brand-deep:#0b3d2e;
+  --brand-bright:#1f8a5f;
+  --bg-tint:#eef7f2;
+  --line:#d7e8df;
+}
+.theme-lightblue{
+  --brand-deep:#155e86;
+  --brand-bright:#33a3d1;
+  --bg-tint:#eaf6fb;
+  --line:#d7ebf3;
+}

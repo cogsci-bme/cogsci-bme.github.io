@@ -2,6 +2,7 @@
 layout: default
 title: Pszichológia Doktori Iskola
 permalink: /doktori/
+theme: lightblue
 ---
 
 <!-- HERO -->
@@ -32,7 +33,7 @@ permalink: /doktori/
       <h2 class="section-title">A megismerés tudósképzése</h2>
       <p class="lead">A Doktori Iskola 2004-ben jött létre Pléh Csaba vezetésével, hogy a kognitív tudomány interdiszciplináris területének művelését és tudósképzését hazai közegben megvalósítsa.</p>
       <p style="color:var(--muted)">A kognitív tudomány a természettudományok, a társadalomtudományok és a bölcsészeti tudományok fogalomrendszeréből és módszereiből merítve közelíti meg az emberi megismerést. A hazai nomenklatúra szerint pszichológia besorolást kapott, oktatási és kutatási programja azonban a kognitív tudomány teljes komplexitását tükrözi. 2013-tól a profil néhány alkalmazott pszichológiai területtel bővült, de továbbra is az interdiszciplináris kognitív irány a meghatározó.</p>
-      <p style="color:var(--muted)">Kognitív érdeklődésű diákjaink egyszerre kapnak felkészítést a megismerés kísérleti vizsgálatából (pszichológiai háttér), a megvalósító rendszerek elemzéséből (idegtudományi háttér), a kutatástechnológiából és modellezésből (informatikai, matematikai és statisztikai mozzanatok), valamint a megismeréskutatás konceptuális elemző eljárásaiból (filozófiai és logikai háttér).</p>
+      <p style="color:var(--muted)">Kognitív érdeklődésű diákjaink egyszerre kapnak felkészítést a megismerés kísérleti vizsgálatára és a hátterében álló idegrendszeri folyamatok elemzésére. Emellett elsajátítják a kutatáshoz szükséges informatikai, matematikai és statisztikai eszközöket, valamint a megismeréskutatás fogalmi elemzésének filozófiai és logikai módszereit.</p>
     </div>
     <div>
       <p class="eyebrow">Adatok</p>
