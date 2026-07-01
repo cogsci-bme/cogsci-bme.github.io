@@ -128,64 +128,14 @@ permalink: /kogtud/
   </div>
 </section>
 
-<!-- KUTATÓCSOPORTOK -->
+<!-- KUTATÓCSOPORTOK: teljes, naprakész lista a /kutatas/ oldalon,
+     itt csak egy rövid átvezetés, hogy ne legyen két hely, amit
+     külön kell karbantartani. -->
 <section class="section section--tint" id="csoportok">
   <div class="wrap">
     <p class="eyebrow">Kutatócsoportok</p>
     <h2 class="section-title">Hol kapcsolódhatsz be</h2>
-    <div class="groups">
-
-      <article class="group">
-        <img src="{{ site.baseurl }}/images/munkatarsak/Pajkossy_Peter.jpg" alt="Pajkossy Péter">
-        <div>
-          <h3>Figyelem és Emlékezet Kutatócsoport</h3>
-          <p class="who">Pajkossy Péter</p>
-          <p><span class="label">Témák</span> Figyelmi és emlékezeti folyamatok kölcsönhatásai, a két rendszer deficitjeinek vizsgálata.</p>
-          <p><span class="label">Módszerek</span> Viselkedéses paradigmák, szemmozgás-követés, pupillometria.</p>
-        </div>
-      </article>
-
-      <article class="group">
-        <img src="{{ site.baseurl }}/images/munkatarsak/Zimmer_Marta.jpg" alt="Zimmer Márta">
-        <div>
-          <h3>Vizuális Idegtudomány Kutatócsoport</h3>
-          <p class="who">Zimmer Márta</p>
-          <p><span class="label">Témák</span> A vizuális észlelés idegrendszeri alapjai, arcészlelés, tárgykategorizáció.</p>
-          <p><span class="label">Módszerek</span> EEG, fMRI, transzkraniális egyenáram-ingerlés.</p>
-        </div>
-      </article>
-
-      <article class="group">
-        <img src="{{ site.baseurl }}/images/munkatarsak/Demeter_Gyula.jpg" alt="Demeter Gyula">
-        <div>
-          <h3><a href="https://scholar.google.com/citations?user=YZ-s6mUAAAAJ&amp;hl=en" target="_blank" rel="noopener">Neuropszichológia és Megismerés Kutatócsoport</a></h3>
-          <p class="who">Demeter Gyula</p>
-          <p><span class="label">Témák</span> Agysérült betegek kognitív funkciói, prospektív emlékezet, érzelemfeldolgozás és társas kogníció.</p>
-          <p><span class="label">Módszerek</span> Neuropszichológiai eljárások, viselkedéses paradigmák.</p>
-        </div>
-      </article>
-
-      <article class="group">
-        <img src="{{ site.baseurl }}/images/munkatarsak/Lukacs_Agnes.jpg" alt="Lukács Ágnes">
-        <div>
-          <h3><a href="https://scholar.google.it/citations?user=Y_HfZ18AAAAJ&amp;hl=en" target="_blank" rel="noopener">Pszicholingvisztika Kutatócsoport</a></h3>
-          <p class="who">Lukács Ágnes</p>
-          <p><span class="label">Témák</span> Kognitív folyamatok szerepe a tipikus és atipikus nyelvelsajátításban, egyéni különbségek az implicit tanulásban.</p>
-          <p><span class="label">Módszerek</span> Viselkedéses paradigmák, neuropszichológiai eljárások.</p>
-        </div>
-      </article>
-
-      <article class="group">
-        <img src="{{ site.baseurl }}/images/munkatarsak/Babarczy_Anna.jpg" alt="Babarczy Anna">
-        <div>
-          <h3><a href="{{ site.baseurl }}/kutatocsoportok/kiserleti-pragmatika/">Kísérleti Pragmatika Kutatócsoport</a></h3>
-          <p class="who">Babarczy Anna</p>
-          <p><span class="label">Témák</span> Pragmatika és tudatelmélet, pragmatikai fejlődés, klinikai pragmatika.</p>
-          <p><span class="label">Módszerek</span> Viselkedéses paradigmák, korpuszelemzés, szemmozgás-követés.</p>
-        </div>
-      </article>
-
-    </div>
+    <p class="lead">A tanszék kutatócsoportjainak teljes, friss listája a <a href="{{ site.baseurl }}/kutatas/">Kutatás</a> oldalon található.</p>
   </div>
 </section>
 

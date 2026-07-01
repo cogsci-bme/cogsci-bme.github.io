@@ -104,22 +104,22 @@ theme: green
     <div class="modules">
       <div class="module">
         <span class="tag">Modul 01</span>
-        <span class="cr">30</span>
+        <span class="cr">30 kredit</span>
         <span class="nm">Statisztikai és adatelemzési ismeretek</span>
       </div>
       <div class="module">
         <span class="tag">Modul 02</span>
-        <span class="cr">20</span>
+        <span class="cr">20 kredit</span>
         <span class="nm">Humán adatok gyűjtésével kapcsolatos módszertani ismeretek</span>
       </div>
       <div class="module">
         <span class="tag">Modul 03</span>
-        <span class="cr">7</span>
+        <span class="cr">7 kredit</span>
         <span class="nm">Szakdolgozat</span>
       </div>
       <div class="module">
         <span class="tag">+1</span>
-        <span class="cr">3</span>
+        <span class="cr">3 kredit</span>
         <span class="nm">Szabadon választott tárgy a BME kínálatából</span>
       </div>
     </div>
