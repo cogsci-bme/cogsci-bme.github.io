@@ -17,8 +17,8 @@ Budapesti Műszaki és Gazdaságtudományi Egyetemen dolgozunk, és szoros kutat
 ## Kutatási témák
 
 - ** Gépi és emberi vizuális kogníció** — Jelenleg számítógépes látásmodelleket és játékosított emberi kísérleteket alkalmazunk a komplex vizuális környezetekben zajló vizuális tanulási dinamikák vizsgálatára. A fő kérdés az. hogy az emberek által elsajátított alacsony szintű észlelési reprezentációk mennyire befolyásolnak komplex döntéseket, és milyen mértékben hasonlítanak a számítógépes látásmodellekéhez.
-- ** Szemmozgás és tanulás** — azt vizsgáljuk, hogy a vizuális statisztikai tanulás hogyan befolyásolja a szemmozgásokat egy tekintetfüggő paradigmában (Arato, Rothkopf & Fiser, 2024). Megállapítottuk, hogy míg az implicit tanulás a szemmozgásokra gyakorolt hatás nélkül is lehetséges, addig elegendő tanulás vagy explicit utasítások alkalmazása után szoros kapcsolat alakul ki a szemmozgások és a felismerési teszt teljesítménye között.
-- ** Idősor-modellezés:** — Rejtett Markov-modelleket (HMM-eket) használok az emberi tekintet dinamika vizsgálatára, valamint a tekintetpályák hasonlóságának számszerűsítésére. HMM-eket alkalmazok továbbá a dinamikus funkcionális konnektivitás vizsgálatára is, neurodivergencia nagy léptékű fMRI-adatkészleteinek felhasználásával.
+- ** Szemmozgás, pupilla és tanulás** — azt vizsgáljuk, hogy a vizuális statisztikai tanulás hogyan befolyásolja a szemmozgásokat egy tekintetfüggő paradigmában (Arato, Rothkopf & Fiser, 2024). Megállapítottuk, hogy míg az implicit tanulás a szemmozgásokra gyakorolt hatás nélkül is lehetséges, addig elegendő tanulás vagy explicit utasítások alkalmazása után szoros kapcsolat alakul ki a szemmozgások és a felismerési teszt teljesítménye között. Jelenleg xAI módszereket használunk a vizuális neurális hálózatok figyelmi eloszlása és az emberi fixációk mintázata közötti hasonlóságok vizsálatára. 
+- ** Idősor-modellezés:** — Rejtett Markov-modelleket (HMM-eket) használunk az emberi tekintet dinamika vizsgálatára, valamint a tekintetpályák hasonlóságának számszerűsítésére. HMM-eket alkalmazok továbbá a dinamikus funkcionális konnektivitás vizsgálatára is, neurodivergencia nagy léptékű fMRI-adatkészleteinek felhasználásával.
 
 
 ## Munkatársak
@@ -26,8 +26,6 @@ Budapesti Műszaki és Gazdaságtudományi Egyetemen dolgozunk, és szoros kutat
 - **Arató József** — kutatócsoport-vezető (https://jozsarato.github.io/)
 
 
-
- 
 
 ## Válogatott publikációk
 
@@ -45,9 +43,9 @@ Budapesti Műszaki és Gazdaságtudományi Egyetemen dolgozunk, és szoros kutat
 
 
 
-## Együttműködések és alumni
+## Együttműködések 
 
-Fiser József (Central European University)
+Fiser József (CEU)
 Nagy Márton (CEU & ELTE)
 Xingyu Long  (Universität Wien)
 Raphael Rosenberg (Universität Wien)
