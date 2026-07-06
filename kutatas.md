@@ -71,7 +71,7 @@ permalink: /kutatas/
       <article class="group">
         <img src="{{ site.baseurl }}/images/munkatarsak/JArato.jpg" alt="Arató József">
         <div>
-          <h3><a href={{ site.baseurl }}/kutatocsoportok/komputacios-vizualis-kognicio/" >Komputációs Vizuális Kogníció Kutatócsoport  </a></h3>
+          <h3><a href="{{site.baseurl}}/kutatocsoportok/komputacios-vizualis/">Komputációs Vizuális Kogníció Kutatócsoport  </a></h3>
           <p class="who">Arató József</p>
           <p><span class="label">Témák</span>  Emberi és gépi vizuális statisztikai tanulás,  szemmozgás és pupilla, idősor elemzés </p>
         </div>

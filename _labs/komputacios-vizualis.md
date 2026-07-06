@@ -2,7 +2,7 @@
 layout: lab
 title: Komputációs Vizuális Kognició 
 pi: Arató József
-permalink: /kutatocsoportok/komputacios-vizualis-kognicio/
+permalink: /kutatocsoportok/komputacios-vizualis/
 email: arato.jozsef@ttk.bme.hu
 frissitve: 2026
 ---
@@ -23,37 +23,33 @@ Budapesti Műszaki és Gazdaságtudományi Egyetemen dolgozunk, és szoros kutat
 
 ## Munkatársak
 
-- **Arató József** — kutatócsoport-vezető (https://jozsarato.github.io/)
+- **Arató József** — kutatócsoport-vezető [személyes honlap](https://jozsarato.github.io/)
 
 
 
 ## Válogatott publikációk
 
--[fMRI dinamika modellezése ASD-ben rejtett Markov láncokkal]
-(https://www.biorxiv.org/content/10.64898/2026.06.12.731591v2.abstract)
+- [fMRI dinamika modellezése ASD-ben rejtett Markov láncokkal](https://www.biorxiv.org/content/10.64898/2026.06.12.731591v2.abstract)
 
-- [Szemmozgás szerepe a téri vizuális statisztikai tanulásban]
-(https://jov.arvojournals.org/article.aspx?articleid=2793709)
+- [Szemmozgás szerepe a téri vizuális statisztikai tanulásban](https://jov.arvojournals.org/article.aspx?articleid=2793709)
 
--[Szociális nyomás hatása a munkamemória teljesítményre]
-(https://osf.io/preprints/psyarxiv/y6xsc_v2)
+- [Szociális nyomás hatása a munkamemória teljesítményre](https://osf.io/preprints/psyarxiv/y6xsc_v2)
 
-- [Madárdal evolúció]
-(https://royalsocietypublishing.org/rstb/article/376/1836/20200241/108711/Phylogenetic-signal-in-the-vocalizations-of-vocal)
+- [Madárdal evolúció](https://royalsocietypublishing.org/rstb/article/376/1836/20200241/108711/Phylogenetic-signal-in-the-vocalizations-of-vocal)
 
 
 
 ## Együttműködések 
 
-Fiser József (CEU)
-Nagy Márton (CEU & ELTE)
-Xingyu Long  (Universität Wien)
-Raphael Rosenberg (Universität Wien)
-Tecumseh Fitch (Universität Wien)
-Dominik Pegler (Universität Wien)
-Jannis Bressgott (Universität Wien)
-Nikita Podolin-Danner (Universität Wien & MPI)
-Julius Duin  (Universität Wien & Crayon)
+- Fiser József (CEU)
+- Nagy Márton (CEU & ELTE)
+- Xingyu Long  (Universität Wien)
+- Raphael Rosenberg (Universität Wien)
+- Tecumseh Fitch (Universität Wien)
+- Dominik Pegler (Universität Wien)
+- Jannis Bressgott (Universität Wien)
+- Nikita Podolin-Danner (Universität Wien & MPI)
+- Julius Duin  (Universität Wien & Crayon)
 
 
 
