@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diákoknak – Számítógépes és kognitív idegtudomány MSc
+title: Diákjainknak – Számítógépes és kognitív idegtudomány MSc
 permalink: /kogtud/diakoknak/
 hero: true
 eyebrow: Számítógépes és kognitív idegtudomány MSc

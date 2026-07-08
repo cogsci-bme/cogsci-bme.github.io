@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diákoknak – Pszichológia MA
+title: Diákjainknak – Pszichológia MA
 permalink: /pszichologia/diakoknak/
 hero: true
 eyebrow: Pszichológia MA

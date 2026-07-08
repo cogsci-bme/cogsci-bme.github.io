@@ -25,7 +25,7 @@ permalink: /dokumentumtar/
       {% assign cog_groups = cog | group_by_exp: "f", "f.path | remove_first: '/dokumentumtar/master_CogSci/' | split: '/' | first" %}
       {% for g in cog_groups %}
       <div class="repo-group">
-        <h3>{% case g.name %}{% when 'Felvi' %}Felvételizőknek{% when 'Zarovizsga' %}Diákoknak{% else %}{{ g.name }}{% endcase %}</h3>
+        <h3>{% case g.name %}{% when 'Felvi' %}Felvételizőknek{% when 'Zarovizsga' %}Diákjainknak{% else %}{{ g.name }}{% endcase %}</h3>
         <ul>
           {% for f in g.items %}
           <li><a href="{{ site.baseurl }}{{ f.path | uri_escape }}">{{ f.name }}</a><span class="ext">{{ f.extname | remove: '.' }}</span></li>
