@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//private/tmp/claude/_site_test/gyik/**)"
+    ]
+  }
+}
