@@ -18,7 +18,8 @@
 
     <!-- ============ TOP BAR / NAVIGATION ============
          To add or rename a menu item, edit the <a> links below.
-         "Képzések" is a dropdown; its entries live in the .dropdown-panel. -->
+         "Felvételizőknek" and "Diákoknak" are dropdowns; their entries
+         live in the respective .dropdown-panel. -->
     <header class="topbar">
       <div class="wrap">
         <a class="brand" href="{{ site.baseurl }}/" aria-label="{{ site.name }}">
@@ -28,21 +29,30 @@
           <span class="bars" aria-hidden="true"></span>
         </button>
         <nav id="site-nav">
+          <a class="navlink" href="{{ site.baseurl }}/dokumentumtar/">Dokumentumtár</a>
           <div class="dropdown">
-            <button class="navlink dropdown-toggle" type="button" aria-expanded="false" aria-controls="kepzesek-panel">
-              Képzések<span class="caret" aria-hidden="true"></span>
+            <button class="navlink dropdown-toggle" type="button" aria-expanded="false" aria-controls="felveteli-panel">
+              Felvételizőknek<span class="caret" aria-hidden="true"></span>
             </button>
-            <div class="dropdown-panel" id="kepzesek-panel">
+            <div class="dropdown-panel" id="felveteli-panel">
               <a class="navlink" href="{{ site.baseurl }}/kogtud/">Számítógépes és kognitív idegtudomány MSc</a>
               <a class="navlink" href="{{ site.baseurl }}/pszichologia/">Pszichológia MA</a>
               <a class="navlink" href="{{ site.baseurl }}/kvad/">Kognitív és viselkedéses adattudomány szakirányú továbbképzés. (KVAD)</a>
               <a class="navlink" href="{{ site.baseurl }}/doktori/">Doktori Iskola</a>
             </div>
           </div>
+          <div class="dropdown">
+            <button class="navlink dropdown-toggle" type="button" aria-expanded="false" aria-controls="diakoknak-panel">
+              Diákoknak<span class="caret" aria-hidden="true"></span>
+            </button>
+            <div class="dropdown-panel" id="diakoknak-panel">
+              <a class="navlink" href="{{ site.baseurl }}/kogtud/diakoknak/">Számítógépes és kognitív idegtudomány MSc</a>
+              <a class="navlink" href="{{ site.baseurl }}/pszichologia/diakoknak/">Pszichológia MA</a>
+            </div>
+          </div>
           <a class="navlink" href="{{ site.baseurl }}/munkatarsak/">Munkatársak</a>
           <a class="navlink" href="{{ site.baseurl }}/kutatas/">Kutatás</a>
           <a class="navlink" href="{{ site.baseurl }}/naptar/">Naptár</a>
-          <a class="navlink" href="{{ site.baseurl }}/gyik/">GYIK</a>
           <a class="cta" href="{{ site.baseurl }}/kapcsolat/">Kapcsolat</a>
         </nav>
       </div>
@@ -102,26 +112,35 @@
       })();
     </script>
 
-    <!-- "Képzések" lenyíló menü nyitása/zárása. -->
+    <!-- Lenyíló menük ("Felvételizőknek", "Diákoknak") nyitása/zárása. -->
     <script>
       (function () {
-        var dropdown = document.querySelector('.dropdown');
-        var toggle = document.querySelector('.dropdown-toggle');
-        if (!dropdown || !toggle) return;
-        function close() {
-          dropdown.classList.remove('open');
-          toggle.setAttribute('aria-expanded', 'false');
-        }
-        toggle.addEventListener('click', function (e) {
-          e.stopPropagation();
-          var open = dropdown.classList.toggle('open');
-          toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
-        });
-        document.addEventListener('click', function (e) {
-          if (!dropdown.contains(e.target)) close();
-        });
-        document.addEventListener('keydown', function (e) {
-          if (e.key === 'Escape') close();
+        var dropdowns = Array.prototype.slice.call(document.querySelectorAll('.dropdown'));
+        dropdowns.forEach(function (dropdown) {
+          var toggle = dropdown.querySelector('.dropdown-toggle');
+          if (!toggle) return;
+          function close() {
+            dropdown.classList.remove('open');
+            toggle.setAttribute('aria-expanded', 'false');
+          }
+          toggle.addEventListener('click', function (e) {
+            e.stopPropagation();
+            dropdowns.forEach(function (other) {
+              if (other !== dropdown) {
+                other.classList.remove('open');
+                var otherToggle = other.querySelector('.dropdown-toggle');
+                if (otherToggle) otherToggle.setAttribute('aria-expanded', 'false');
+              }
+            });
+            var open = dropdown.classList.toggle('open');
+            toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+          });
+          document.addEventListener('click', function (e) {
+            if (!dropdown.contains(e.target)) close();
+          });
+          document.addEventListener('keydown', function (e) {
+            if (e.key === 'Escape') close();
+          });
         });
       })();
     </script>

@@ -12,7 +12,7 @@ permalink: /dokumentumtar/
   <div class="wrap">
     <p class="eyebrow">Hallgatóknak</p>
     <h1>Dokumentumtár</h1>
-    <p class="sub">Letölthető anyagok mesterszakos hallgatóinknak: mintatantervek, záróvizsga-tételek, diplomamunka-sablonok, etikai és plágium-nyilatkozatok, felvételi tájékoztatók.</p>
+    <p class="sub">Letölthető anyagok mesterszakos hallgatóinknak: mintatantervek, záróvizsga-tételek, diplomamunka-sablonok, etikai és plágium-nyilatkozatok, felvételi tájékoztatók. Az MSc képzés dokumentumait fentebb, az MA képzés dokumentumait lentebb találjátok.</p>
   </div>
 </section>
 

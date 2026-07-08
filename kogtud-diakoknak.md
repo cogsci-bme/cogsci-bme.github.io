@@ -1,9 +1,9 @@
 ---
 layout: page
-title: GYIK
-permalink: /gyik/
+title: Diákoknak – Számítógépes és kognitív idegtudomány MSc
+permalink: /kogtud/diakoknak/
 hero: true
-eyebrow: Gyakran Ismételt Kérdések
+eyebrow: Számítógépes és kognitív idegtudomány MSc
 lead: Szakdolgozattal és záróvizsgával kapcsolatos tudnivalók mesterszakos hallgatóinknak.
 ---
 
@@ -12,6 +12,7 @@ lead: Szakdolgozattal és záróvizsgával kapcsolatos tudnivalók mesterszakos 
 - [Diplomamunka](#szakdolgozat)
 - [Záróvizsga](#zarovizsga)
 - [Plágium](#plagium)
+- [AI-használat kritériumai hallgatói dolgozatokhoz](#ai-hasznalat)
 
 ## Részletes tudnivalók szakdolgozattal és záróvizsgával kapcsolatban {#tudnivalok}
 
@@ -89,3 +90,26 @@ A plágium szoftverrekkel is ellenőrizhető pl.:
 - [Plagiarism Detector](https://plagiarismdetector.net/){:target="_blank"} (ingyenes)
 - [Quetext](https://www.quetext.com){:target="_blank"} (limitált ideig ingyenes)
 - [KOPI plágiumkereső portálon](https://kopi.sztaki.hu/){:target="_blank"} (magyar nyelvű, ingyenes)
+
+## AI-használat kritériumai hallgatói dolgozatokhoz {#ai-hasznalat}
+
+### 1. Kontroll és felelősségvállalás
+
+Minden AI-generált tartalomért te vagy felelős: minden állítást és hivatkozást ellenőrizned kell, és képesnek kell lenned megmagyarázni őket.
+
+- **Elfogadható:** AI-val generálsz egy bekezdést, aztán ellenőrzöd a forrásokat és átírod, ami pontatlan.
+- **Nem elfogadható:** Beadsz egy AI-generált elemzést anélkül, hogy ellenőriznéd, valósak-e a hivatkozások.
+
+### 2. Saját érdemi munka
+
+A kutatási kérdés megfogalmazásában, az adatok elemzésében, vagy az AI-outputok kiválasztásában és feldolgozásában jelentős szellemi munkát kell végezned.
+
+- **Elfogadható:** AI-val összefoglaltatod a szakirodalmat, aztán te szintetizálod és elemzed a saját kutatási kérdésed szempontjából.
+- **Nem elfogadható:** Az AI-t használod az elemzés megírására, és csak minimálisan átszerkeszted.
+
+### 3. Átláthatóság
+
+Nyíltan meg kell mondanod, hogyan használtad az AI-t, hogy értékelni lehessen a saját hozzájárulásod mértékét.
+
+- **Elfogadható:** "A Claude Sonnet 5-öt használtam a nyelvhelyesség javítására és a kódvázlatok generálására, amelyeket aztán módosítottam."
+- **Nem elfogadható:** Nem említed, hogy az AI segített a módszertan vagy az eredmények szakasz megírásában.

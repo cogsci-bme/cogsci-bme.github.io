@@ -24,8 +24,10 @@ permalink: /kogtud/
       <span class="chip">2004 óta a BME-n</span>
     </div>
     <div class="hero-actions">
-      <a class="btn btn--solid" href="{{ site.baseurl }}/kogtud/felveteli/">Jelentkezés és követelmények</a>
-      <a class="btn btn--ghost" href="{{ site.baseurl }}/dokumentumtar/">Dokumentumtár</a>
+      <a class="btn btn--solid" href="#szak">A szakról</a>
+      <a class="btn btn--ghost" href="#tanulhatsz">Amiről nálunk tanulhatsz</a>
+      <a class="btn btn--ghost" href="#bme">Kognitív tudomány a BME-n</a>
+      <a class="btn btn--ghost" href="#jelentkezes">Jelentkezés és felvételi</a>
     </div>
   </div>
 </section>
@@ -146,18 +148,23 @@ permalink: /kogtud/
     <h2 class="section-title">Jelentkezés és felvételi</h2>
     <p class="lead">A szakra szeretettel várjuk a pszichológia alapképzést végzetteket, nyelvészeket, beszéd- és nyelvterapeutákat, biológusokat, orvosokat, mérnököket, filozófusokat, és mindenkit, akit érdekel a kognitív tudomány és megfelel a felvételi követelményeknek.</p>
 
-    <dl class="facts" style="margin-top:2rem">
-      <div class="fact"><dt>Diploma</dt><dd>BA vagy BSc bármely területen</dd></div>
-      <div class="fact"><dt>Kreditfeltétel</dt><dd>Összesen legalább 30 kredit tetszőleges kombinációban a matematika–statisztika–informatika, pszichológia–biológia–nyelvészet és filozófia–logika tárgykörökből</dd></div>
-      <div class="fact"><dt>Nyelv</dt><dd>Angol középfokú nyelvvizsga</dd></div>
-      <div class="fact"><dt>Képzési idő és nyelv</dt><dd>4 félév, magyar és angol nyelven</dd></div>
-    </dl>
+    <h3 style="font-family:var(--display);color:var(--brand-deep);font-size:1.15rem;margin:3rem 0 .6rem">Jelentkezési feltételek</h3>
+    <ul class="clean">
+      <li>BA vagy BSc diploma bármely területen.</li>
+      <li>Összesen legalább 30 kredit tetszőleges kombinációban a matematika–statisztika–informatika, pszichológia–biológia–nyelvészet és filozófia–logika tárgykörökből.</li>
+      <li>Angol középfokú nyelvvizsga.</li>
+    </ul>
 
-    <div class="applybox">
+    <h3 style="font-family:var(--display);color:var(--brand-deep);font-size:1.15rem;margin:3rem 0 .6rem">A felvételi menete</h3>
+    <p class="muted" style="max-width:62ch;margin-top:0">A szak hivatalos leírása és a felvételi eljárás részletei a <a href="https://www.felvi.hu/felveteli/szakok_kepzesek/szakleirasok/!Szakleirasok/index.php/szak/2324/szakleiras" target="_blank" rel="noopener">felvi.hu szakleírásában</a> érhetők el. A felvételi tudnivalókat és a kreditbeszámítás részleteit hamarosan bővítjük.</p>
+
+    <h3 style="font-family:var(--display);color:var(--brand-deep);font-size:1.15rem;margin:3rem 0 .6rem">Letölthető anyagok</h3>
+    <p class="muted" style="max-width:62ch;margin-top:0">A felvételi tájékoztatók és a mintatantervek a <a href="{{ site.baseurl }}/dokumentumtar/">Dokumentumtárban</a> érhetők el.</p>
+
+    <div class="applybox" style="margin-top:3rem">
       <h2>Jelentkezz most</h2>
-      <p>A szak hivatalos leírása és a felvételi menete a felvi.hu oldalon érhető el. A részletes felvételi tudnivalókat külön oldalon gyűjtöttük össze. Kérdéseiddel keresd a tanszéket, vagy kövess minket a Facebookon.</p>
+      <p>Kérdéseiddel keresd a tanszéket, vagy kövess minket a Facebookon.</p>
       <div class="links">
-        <a class="btn" href="{{ site.baseurl }}/kogtud/felveteli/">Felvételi tudnivalók</a>
         <a class="btn ghost" href="https://www.felvi.hu/felveteli/szakok_kepzesek/szakleirasok/!Szakleirasok/index.php/szak/2324/szakleiras" target="_blank" rel="noopener">Szakleírás a felvin</a>
         <a class="btn ghost" href="{{ site.contact.facebook }}" target="_blank" rel="noopener">Facebook</a>
       </div>
