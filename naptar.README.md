@@ -25,6 +25,32 @@ A beágyazás csak akkor látszik a látogatóknak, ha a naptár nyilvános:
 
 Ha ez nincs bekapcsolva, a látogatók „a naptár nem érhető el" üzenetet látnak.
 
+### Hibaelhárítás: a keret betölt, de üres / nincs naptár a listában
+
+Ha a beágyazott keret megjelenik, de nem látszik benne se naptárnév, se
+esemény (üresen fut le), a leggyakoribb okok, valószínűség szerint:
+
+1. **A „Nyilvánossá tétel" nem mentődött el ténylegesen.** Nem elég csak a
+   jelölőnégyzetet bepipálni: a hozzá tartozó legördülőben (free/busy vagy
+   „Összes esemény részletei") is választani kell egy opciót, különben a
+   beállítás néha visszaáll.
+2. **Intézményi (Workspace) tiltás.** Ha a naptár egy szervezeti (pl.
+   `ttk.bme.hu`) Google Workspace fiók alatt van, az admin szintű „külső
+   megosztás" tiltás felülírhatja az egyéni naptár nyilvános beállítását — a
+   tulajdonos ilyenkor mindent lát, a külső látogató viszont semmit, hibaüzenet
+   nélkül.
+3. **Terjedési késés.** A nyilvánossá tétel érvénybe lépése a Google szerint
+   akár 24 óráig is eltarthat.
+4. **Bejelentkezve tesztelted.** Ha a beágyazott linket olyan böngészőben
+   nyitod meg, ahol be vagy jelentkezve egy, a naptárhoz hozzáféréssel
+   rendelkező Google-fiókkal, az megtévesztő módon működni fog, függetlenül a
+   nyilvános beállítástól. Az igazi teszt egy inkognitó ablak, kijelentkezett
+   állapotban.
+
+Ha mindezek után is üres marad, próbáld megnyitni a `src=` érték mögötti
+naptár-azonosítót közvetlenül egy beágyazás-URL-ben, kijelentkezve, és nézd
+meg, mit mutat a böngésző.
+
 ## Esemény felvétele
 
 Nyisd meg a Google Naptárt, és a megfelelő naptárba vegyél fel eseményt a
