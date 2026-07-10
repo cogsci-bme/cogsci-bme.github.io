@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Read(//private/tmp/claude/_site_test/gyik/**)"
+      "Read(//private/tmp/claude/_site_test/gyik/**)",
+      "Read(//private/tmp/claude/_site_test/pszichologia/diakoknak/**)",
+      "Read(//private/tmp/claude/_site_test/**)"
     ]
   }
 }

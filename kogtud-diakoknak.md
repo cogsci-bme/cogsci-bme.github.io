@@ -7,12 +7,19 @@ eyebrow: Számítógépes és kognitív idegtudomány MSc
 lead: Szakdolgozattal és záróvizsgával kapcsolatos tudnivalók mesterszakos hallgatóinknak.
 ---
 
+- [Mintatanterv](#mintatanterv)
 - [Részletes tudnivalók szakdolgozattal és záróvizsgával kapcsolatban](#tudnivalok)
 - [Feladatkiírás és etikai engedély](#feladatkiiras)
 - [Diplomamunka](#szakdolgozat)
 - [Záróvizsga](#zarovizsga)
 - [Plágium](#plagium)
 - [AI-használat kritériumai hallgatói dolgozatokhoz](#ai-hasznalat)
+
+A félévek órarendjét megtalálhatjátok a Naptár menüpont alatt.
+
+## Mintatanterv {#mintatanterv}
+
+A Számítógépes és kognitív idegtudomány MSc mintatanterve ezen a [linken]({{ site.baseurl }}/dokumentumtar/master_CogSci/Mintatantervek/Kognitiv_MSc_Curriculum2023.pdf) érhető el.
 
 ## Részletes tudnivalók szakdolgozattal és záróvizsgával kapcsolatban {#tudnivalok}
 

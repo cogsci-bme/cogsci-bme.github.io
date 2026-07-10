@@ -5,6 +5,7 @@ permalink: /pszichologia/diakoknak/
 hero: true
 eyebrow: Pszichológia MA
 lead: Szakdolgozattal és záróvizsgával kapcsolatos tudnivalók a kognitív pszichológia specializáció hallgatóinak.
+theme: red
 ---
 
 - [Mintatanterv](#mintatanterv)
@@ -13,6 +14,8 @@ lead: Szakdolgozattal és záróvizsgával kapcsolatos tudnivalók a kognitív p
 - [Záróvizsga](#zarovizsga)
 - [Plágium](#plagium)
 - [AI-használat kritériumai hallgatói dolgozatokhoz](#ai-hasznalat)
+
+A félévek órarendjét megtalálhatjátok a Naptár menüpont alatt.
 
 ## Mintatanterv {#mintatanterv}
 
