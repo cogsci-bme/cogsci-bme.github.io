@@ -25,7 +25,7 @@ theme: green
   <div class="wrap">
     <p class="eyebrow">Szakirányú továbbképzési szak · BME Kognitív Tudományi Tanszék</p>
     <h1>Kognitív és viselkedéses adattudomány</h1>
-    <p class="sub">Posztgraduális képzés azoknak, akik humán viselkedéses és kognitív adatokból akarnak megalapozott, döntéseket támogató tudásokat kinyerni.</p>
+    <p class="sub">Két féléves, gyakorlatorientált képzés azoknak, akik az emberi viselkedés és mentális folyamatok méréséből származó adatokat szeretnék értékes, a döntéshozatalt támogató tudássá alakítani.  </p>
     <p class="en">Cognitive and Behavioural Data Science · postgraduate specialisation programme</p>
     <div class="chips">
       <span class="chip">Részidős, levelező munkarend</span>
@@ -45,13 +45,13 @@ theme: green
   <div class="wrap grid-2">
     <div>
       <p class="eyebrow">A képzésről</p>
-      <h2 class="section-title">Az emberi viselkedésből cselekvőképes tudás</h2>
-      <p class="lead">A célunk olyan szakemberek képzése, akik képesek az emberi viselkedésről és kognitív folyamatokról szóló adatok szakszerű begyűjtésére, elemzésére és értelmezésére, valamint az eredményeket megalapozott javaslatokká tudják alakítani döntéshozók számára.</p>
+      <h2 class="section-title">Adattudomány emberi viselkedésre szabva</h2>
+      <p class="lead">A célunk olyan szakemberek képzése, akik képesek az emberi viselkedésről és kognitív folyamatokról szóló adatok szakszerű begyűjtésére, elemzésére és értelmezésére, valamint az eredményeket megalapozott javaslatokká tudják alakítani döntéshozók számára. A szak tehát nem egy általános adattudományi képzés. A fókusz az emberi viselkedésből származó adatok megbízható gyűjtésén, értelmezésén és alkalmazásán van.</p>
       <p style="margin-top:1.2rem;color:var(--muted)">A résztvevők megismerik a kísérlettervezés, a kérdőíves adatfelvétel és egyes pszichofiziológiai mérési módszerek alapelveit, és gyakorlati betekintést nyernek a modern statisztikai és gépi tanulási eljárások alkalmazásába, különös hangsúlyt fektetve a mesterséges intelligencia támogatta munkafolyamatokra (prompt engineering, context engineering). A megszerzett tudás kutatási és ipari környezetben egyaránt hasznosítható.</p>
     </div>
     <div>
       <p class="eyebrow">Kinek szól</p>
-      <p style="margin-top:0;color:var(--muted)">BA (bölcsészet vagy társadalomtudomány) vagy BSc végzettséggel rendelkező diplomásoknak, akik munkájuk során humán viselkedésre vonatkozó adatokkal dolgoznak vagy szeretnének dolgozni:</p>
+      <p style="margin-top:0;color:var(--muted)">BA (bölcsészet vagy társadalomtudomány) vagy BSc végzettséggel rendelkező diplomásoknak, akik munkájuk során emberi viselkedéssel és mentális folyamatokkal kapcsolatos adatokkal fognak dolgozni:</p>
       <ul class="clean">
         <li>kutatás és tudományos munka</li>
         <li>felhasználói élmény (UX) és digitális termékfejlesztés</li>
@@ -172,7 +172,7 @@ theme: green
       <details class="acc">
         <summary>Gépi tanulás humán adatokon <span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span><span class="plus">+</span></span></summary>
         <div class="body">
-          <p>Gépi tanulási módszerek alkalmazása humán viselkedéses és kognitív adatokon: mintázatok felismerése és előrejelzés készítése, a modellek értelmezhetőségére és korlátaira fókuszálva. <span class="ph">[a részletes tematika pontosítandó]</span></p>
+          <p>Gépi tanulási módszerek alkalmazása humán viselkedéses és kognitív adatokon: mintázatok felismerése és előrejelzés készítése, a modellek értelmezhetőségére és korlátaira fókuszálva.</p>
         </div>
       </details>
 
@@ -237,7 +237,7 @@ theme: green
         <div class="fact"><dt>Kapcsolat</dt><dd><a href="mailto:babarczy.anna@ttk.bme.hu">babarczy.anna@ttk.bme.hu</a></dd></div>
         <div class="fact"><dt>Tandíj</dt><dd>Önköltséges, félévenként 450 ezer forint</dd></div>
         <div class="fact"><dt>Jelentkezési határidő</dt><dd>Részletek hamarosan</dd></div>
-        <div class="fact"><dt>Jelentkezés</dt><dd>2026 ősszel a felvi.hu-n keresztül. Érdeklődők most <a href="https://forms.cloud.microsoft/e/CJWqdW9tJs">regisztrálhatnak</a>.</dd></div>
+        <div class="fact"><dt>Jelentkezés</dt><dd>2026 ősszel a felvi.hu-n keresztül. A képzés iránt érdeklődők számára folyamatos tájékoztatást küldünk a képzés indulásával kapcsolatos tudnivalókról (nyílt nap, szakkal kapcsolatos ismertető események, felvételi tudnivalók). Regisztrálni <a href="https://forms.cloud.microsoft/e/CJWqdW9tJs">itt</a> lehet.</dd></div>
       </dl>
     </div>
   </div>
