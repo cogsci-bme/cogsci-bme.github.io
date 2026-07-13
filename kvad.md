@@ -237,7 +237,7 @@ theme: green
         <div class="fact"><dt>Kapcsolat</dt><dd><a href="mailto:babarczy.anna@ttk.bme.hu">babarczy.anna@ttk.bme.hu</a></dd></div>
         <div class="fact"><dt>Tandíj</dt><dd>Önköltséges, félévenként 450 ezer forint</dd></div>
         <div class="fact"><dt>Jelentkezési határidő</dt><dd>Részletek hamarosan</dd></div>
-        <div class="fact"><dt>Jelentkezés</dt><dd>2026 ősszel a felvi.hu-n keresztül. A képzés iránt érdeklődők számára folyamatos tájékoztatást küldünk a képzés indulásával kapcsolatos tudnivalókról (nyílt nap, szakkal kapcsolatos ismertető események, felvételi tudnivalók). Regisztrálni <a href="https://forms.cloud.microsoft/e/CJWqdW9tJs">itt</a> lehet.</dd></div>
+        <div class="fact"><dt>Jelentkezés</dt><dd>2026 ősszel a felvi.bme.hu-n keresztül. A képzés iránt érdeklődők számára tájékoztatást küldünk a képzés indulásával kapcsolatos tudnivalókról. Regisztrálni <a href="https://forms.cloud.microsoft/e/CJWqdW9tJs">itt</a> lehet.</dd></div>
       </dl>
     </div>
   </div>
