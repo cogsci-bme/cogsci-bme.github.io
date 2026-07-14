@@ -20,6 +20,8 @@ alapon, GitHub Pages-en hosztolva. Build és telepítés automatikus: a `main`
 | `dokumentumtar.md` + `dokumentumtar/` | Hallgatói letöltések (lásd `dokumentumtar/README.md`). |
 | `CNAME`                 | Az egyéni domain (`ktt.ttk.bme.hu`). |
 
+Ha `git push` közben hibaüzenetet kapsz, lásd [`git.README.md`](git.README.md).
+
 ## Hír közzététele
 
 Lásd a részletes, magyar nyelvű útmutatót: [`_posts/README.md`](_posts/README.md).
