@@ -7,6 +7,8 @@ eyebrow: Tanszék
 lead: A félév menetrendje és a tanszéki események egy helyen.
 ---
 
+A tantárgyakhoz tartozó tárgyleírásokat a kar oldalán, [itt](https://www.ttk.bme.hu/tantargyak?keys=&field_felelos_tanszeke_value=7) találjátok.
+
 <!--
   TÖBB NAPTÁR MEGJELENÍTÉSE
   ------------------------------------------------------------------
