@@ -19,7 +19,7 @@ A félévek órarendjét megtalálhatjátok a Naptár menüpont alatt.
 
 ## Mintatanterv {#mintatanterv}
 
-A Számítógépes és kognitív idegtudomány MSc mintatanterve ezen a [linken]({{ site.baseurl }}/dokumentumtar/master_CogSci/Mintatantervek/Szamitogepes_es_kognitiv_idegtudomany_mintatanterv_25_26os tanevtol.pdf) érhető el.
+A Számítógépes és kognitív idegtudomány aktuális MSc mintatanterve ezen a [linken]({{ site.baseurl }}/dokumentumtar/master_CogSci/Mintatantervek/Szamitogepes_es_kognitiv_idegtudomany_mintatanterv_25_26os tanevtol.pdf) érhető el. A 25-26 előtti tanterv pedig [itt]({{ site.baseurl }}/dokumentumtar/master_CogSci/Mintatantervek/Kognitiv_MSc_Curriculum2023.pdf) van.
 
 ## Részletes tudnivalók szakdolgozattal és záróvizsgával kapcsolatban {#tudnivalok}
 
