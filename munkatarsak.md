@@ -112,7 +112,7 @@ lead: A Kognitív Tudományi Tanszék oktatói, kutatói és munkatársai.
     <img src="{{ site.baseurl }}/images/munkatarsak/Racz_Peter.jpg" alt="Rácz Péter">
     <div>
       <h3>Rácz Péter</h3>
-      <p class="who">egyetemi adjunktus</p>
+      <p class="who">egyetemi docens</p>
       <p><span class="label">Iroda</span> T504</p>
       <p><span class="label">Telefon</span> 06 (1) 463-3576</p>
       <p><span class="label">E-mail</span> <a href="mailto:racz.peter.marton@ttk.bme.hu">racz.peter.marton@ttk.bme.hu</a></p>
