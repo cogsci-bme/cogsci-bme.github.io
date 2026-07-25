@@ -14,7 +14,7 @@ Az emberi nyelv közös rituálé. Olyan, mint a fogócska, a kórus föllépés
 
 ## Munkatársak
 
-- **Rácz Péter** — kutatócsoport-vezető
+- **Rácz Péter** — kutatócsoport-vezető ([személyes oldal](https://peterracz.wordpress.com/))
 - **Pokk Henrietta** — doktorandusz
 - **Blaskovics Ákos** — doktorandusz
 
