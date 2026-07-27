@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: Pszicholingvisztika Kutatócsoport
+title: Nyelvelsajátítás Kutatócsoport
 pi: Lukács Ágnes
 permalink: /kutatocsoportok/pszicholingvisztika/
 email: lukacs.agnes@ttk.bme.hu
