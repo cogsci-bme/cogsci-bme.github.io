@@ -1,11 +1,32 @@
+# Jekyll build output and local gem install
 _site
 vendor
-.DS_Store
 .jekyll
+.jekyll-cache
 .jekyll-metadata
 .bundle
 .sass-cache
+
+# Ruby / Node dependency manifests (managed outside the repo)
 Gemfile
 Gemfile.lock
 node_modules
 package.json
+
+# macOS junk
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Editor and tooling state
+.claude/settings.local.json
+.idea
+.vscode
+*.swp

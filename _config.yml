@@ -28,12 +28,6 @@ contact:
   email: kttinfo@ttk.bme.hu
   facebook: https://www.facebook.com/BME.KOGNITIV/
 
-# --- Optional integrations (leave blank to disable) ---
-# Disqus comment threads on news posts. Enter your Disqus shortname to turn on.
-disqus:
-# Google Analytics tracking ID, e.g. UA-XXXXXX or G-XXXXXX.
-google_analytics:
-
 # =====================================================================
 # !! You normally do not need to change anything below this line. !!
 # =====================================================================
@@ -66,3 +60,4 @@ exclude:
   - labs.README.md
   - CNAME
   - vendor
+  - fonts/fetch-fonts.sh

@@ -7,11 +7,20 @@ megjeleníti azt. Egy esemény hozzáadásához tehát nem kell a honlaphoz nyú
 
 ## Hogyan működik
 
-A `naptar.md` fájl egyetlen `<iframe>`-et tartalmaz, amely a Google Naptár
-beágyazott nézetére mutat. A beágyazás URL-jében szerepel a naptár azonosítója
-(`...@group.calendar.google.com`). Ha a naptárban felveszel egy eseményt, az
-néhány percen belül megjelenik az oldalon — a honlapot **nem kell** újra
-buildelni.
+A `naptar.md` fájlban a beágyazás URL-je a `<div class="calendar-embed">`
+elem **`data-embed-src`** attribútumában van. Az URL-ben szerepel a naptár
+azonosítója (`...@group.calendar.google.com`). Ha a naptárban felveszel egy
+eseményt, az néhány percen belül megjelenik az oldalon — a honlapot **nem
+kell** újra buildelni.
+
+## Adatvédelem: a naptár csak kattintásra töltődik be
+
+A naptár nem jelenik meg azonnal: a látogató először egy rövid tájékoztatót és
+egy **„Naptár betöltése"** gombot lát. Az `<iframe>` csak a gombra kattintva
+jön létre. Ez azért kell, mert a beágyazás betöltése a látogató IP-címét
+elküldi a Google-nek, és sütiket helyezhet el nála — hozzájárulás nélkül ez
+GDPR-szempontból problémás. Az oldal alján lévő rövid szkript végzi a
+behelyettesítést; ha az URL-t módosítod, a szkripthez nem kell hozzányúlni.
 
 ## FONTOS: a naptárnak nyilvánosnak kell lennie
 
@@ -72,12 +81,12 @@ hoztak létre, és a régi helyett azt kell mutatni):
      `...@group.calendar.google.com` azonosító.
 2. Ellenőrizd, hogy az új naptár **nyilvános**-e (lásd fent) — ha nem, a
    látogatók nem fogják látni.
-3. A `naptar.md` fájlban az `<iframe src="...">` sorban cseréld le a `src=`
-   paraméter értékét az új azonosítóra (az `@` jelet `%40`-re írva), a
+3. A `naptar.md` fájlban a `data-embed-src="..."` attribútumban cseréld le a
+   `src=` paraméter értékét az új azonosítóra (az `@` jelet `%40`-re írva), a
    `&ctz=...` és a többi paraméter változatlanul maradhat. Például:
 
    ```
-   src="https://calendar.google.com/calendar/embed?src=UJ_NAPTAR_ID%40group.calendar.google.com&ctz=Europe%2FBudapest&showTitle=0"
+   data-embed-src="https://calendar.google.com/calendar/embed?src=UJ_NAPTAR_ID%40group.calendar.google.com&ctz=Europe%2FBudapest&showTitle=0"
    ```
 4. Commitold és pusholtold a `naptar.md` módosítását a `main` ágra; néhány
    percen belül élesedik.
@@ -88,9 +97,9 @@ Ha csak a **régit lecserélni** szeretnéd (nem hozzáadni egy másodikat), egy
 ## Több naptár megjelenítése egyszerre
 
 Egy beágyazásban több naptár is mutatható, színkódolva (pl. külön naptár a
-BSc-nek és az MSc-nek). Ehhez a `naptar.md` fájlban az `<iframe src="...">`
+BSc-nek és az MSc-nek). Ehhez a `naptar.md` fájlban a `data-embed-src="..."`
 URL-jét kell bővíteni. A kommentezett útmutató ott, a fájlban is megtalálható,
-közvetlenül az `<iframe>` fölött.
+közvetlenül a `<div class="calendar-embed">` fölött.
 
 Röviden:
 
