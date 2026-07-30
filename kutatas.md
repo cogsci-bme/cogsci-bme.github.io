@@ -47,7 +47,7 @@ permalink: /kutatas/
       <article class="group">
         <img src="{{ site.baseurl }}/images/munkatarsak/Lukacs_Agnes.jpg" alt="Lukács Ágnes">
         <div>
-          <h3><a href="{{ site.baseurl }}/kutatocsoportok/nyelvelsajatitas/">Nyelvelsajátítás Kutatócsoport</a></h3>
+          <h3>Nyelvelsajátítás Kutatócsoport</h3>
           <p class="who">Lukács Ágnes</p>
           <p><span class="label">Témák</span> Kognitív folyamatok szerepe a tipikus és atipikus nyelvelsajátításban.</p>
         </div>
