@@ -74,7 +74,6 @@ A többi bekezdés tetszőleges hosszú lehet.
 
 Eldöntendő (a csapat döntése): a hírek **közvetlen push**-sal jelenjenek-e
 meg, vagy **pull requesten** át, ellenőrzés után. Pull request esetén egy
-második szerkesztő átnézi a hírt, mielőtt élesedik. Ezt a döntést érdemes
-ide is beírni, hogy mindenki tudja.
+második szerkesztő átnézi a hírt, mielőtt élesedik. Ez attól függ, hogy az oldalnak adminisztrátora (owner) vagy kontribútora (member) vagy -- ha felraksz egy hírt, és nem jelenik meg pár perc után az oldalon, akkor írj valamelyik adminisztrátornak (ld. [itt](https://github.com/orgs/cogsci-bme/people)).
 
 > Ez a README nem jelenik meg a kész oldalon (a `_config.yml` kizárja).
