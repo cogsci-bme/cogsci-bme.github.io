@@ -9,7 +9,7 @@ lead: A félév menetrendje és a tanszéki események egy helyen.
 
 A tantárgyakhoz tartozó tárgyleírásokat a kar oldalán, [itt](https://www.ttk.bme.hu/tantargyak?keys=&field_felelos_tanszeke_value=7) találjátok.
 
-A 2026/27-es tanév őszi óráinak időpontjai még nem véglegesek, és a félév kezdetéig még változhatnak.
+A 2026/27-es tanév őszi óráinak időpontjai még nem véglegesek, és a félév kezdetéig még változhatnak. Figyelem: a Neptunban közzé tett időpontok az irányadók.
 
 <!--
   TÖBB NAPTÁR MEGJELENÍTÉSE
