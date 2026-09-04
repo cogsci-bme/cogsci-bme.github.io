@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep  4 14:59:43 2026
-
-@author: aratoj87
-"""
 
 ---
 layout: post
