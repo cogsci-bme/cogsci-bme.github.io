@@ -1,7 +1,8 @@
-    <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <!-- A charset és a viewport a _layouts/default.html <head> részében van
+         megadva, ezért itt nem ismételjük meg. A viewport szándékosan nem
+         korlátozza a nagyítást (nincs maximum-scale), hogy az oldal
+         gyengénlátók számára is nagyítható maradjon. -->
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
