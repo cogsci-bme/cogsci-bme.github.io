@@ -26,7 +26,8 @@ Ha `git push` közben hibaüzenetet kapsz, lásd [`git.README.md`](git.README.md
 
 Lásd a részletes, magyar nyelvű útmutatót: [`_posts/README.md`](_posts/README.md).
 Röviden: másold le a `_posts/2026-06-21-pelda-hir.md` fájlt, nevezd át
-`ÉÉÉÉ-HH-NN-rovid-cim.md` formára, írd át a tartalmát, és commitold.
+`ÉÉÉÉ-HH-NN-rovid-cim.md` formára, írd át a tartalmát, töröld belőle a
+`published: false` sort, és commitold.
 
 ## Naptár
 

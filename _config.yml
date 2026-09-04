@@ -52,6 +52,9 @@ plugins:
   - jekyll-feed
 
 # Files and folders kept out of the built site.
+# Minden szerkesztőknek szóló README-t itt kell felsorolni, különben a
+# GitHub Pages nyilvános oldalként közzéteszi őket (a jekyll-optional-front-matter
+# bővítmény a front matter nélküli .md fájlokat is oldallá alakítja).
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -59,6 +62,10 @@ exclude:
   - README.md
   - naptar.README.md
   - labs.README.md
+  - git.README.md
+  - dokumentumtar/README.md
+  - hosztolas.README.md
+  - atallas.README.md
   - CNAME
   - vendor
   - fonts/fetch-fonts.sh
