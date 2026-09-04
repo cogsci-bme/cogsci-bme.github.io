@@ -16,4 +16,4 @@ A nyilvános vita ideje és helye:
 2026. szeptember 16. szerda, 13:00 óra
 BME I. ép. B. szárny, fszt. 19. terem.
 
-A védés elérhetősége az ODT honlapján: https://doktori.hu/doktori-vedesek/34072/
+A védés elérhetősége az [ODT honlapján.](https://doktori.hu/doktori-vedesek/34072/)
