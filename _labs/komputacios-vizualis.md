@@ -25,6 +25,8 @@ Budapesti Műszaki és Gazdaságtudományi Egyetemen dolgozunk, és szoros kutat
 
 - **Arató József** — kutatócsoport-vezető [személyes honlap](https://jozsarato.github.io/) 
 
+- **Szűcs Sándor** — doktorandusz
+
 
 
 ## Válogatott publikációk:
