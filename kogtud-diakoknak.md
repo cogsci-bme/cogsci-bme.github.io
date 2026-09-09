@@ -24,8 +24,8 @@ A Számítógépes és kognitív idegtudomány aktuális MSc mintatanterve ezen 
 
 ## Információk és határidők a 2026 őszi félévben záróvizsgázó MSc hallgatóknak {#hataridok}
 - Etikai ügyintézés folyamatos és teljesen elektronikus 
-- Feladatkiírás leadása: október 26 
-- Szakdolgozat leadása: december 7 
+- Feladatkiírás leadása:  2026. október 26 
+- Szakdolgozat leadása: 2026. december 7 
 - Záróvizsga: 2027. január 25.
 
 ## Részletes tudnivalók szakdolgozattal és záróvizsgával kapcsolatban {#tudnivalok}
