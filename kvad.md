@@ -231,7 +231,7 @@ theme: green
 
     <div class="applybox" style="margin-top:3rem">
       <h2>Jelentkezés</h2>
-      <p>A jelentkezés részletei alább olvashatók; a pontos határidőt hamarosan közöljük.</p>
+      <p>A jelentkezés várhatóan november 1-én indul; a részletek alább olvashatók.</p>
       <dl class="facts" style="margin-top:1.6rem">
         <div class="fact"><dt>Szakfelelős</dt><dd>Babarczy Anna</dd></div>
         <div class="fact"><dt>Kapcsolat</dt><dd><a href="mailto:babarczy.anna@ttk.bme.hu">babarczy.anna@ttk.bme.hu</a></dd></div>
