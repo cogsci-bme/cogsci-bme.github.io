@@ -20,10 +20,10 @@ Az emberi nyelv közös rituálé. Olyan, mint a fogócska, a kórus föllépés
 
 ## Válogatott publikációk
 
-- Zellou, Georgia, Péter Rácz, and Santiago Barreda. "Social associations between voices and words affect learning." Glossa Psycholinguistics 5, no. 1 (2026).
+- Rácz, Péter, and Henrietta Pokk. "Past tense choice in Old- and Middle-Hungarian gospel translations and epistolary writing". Diachronica (to appear).
 - Rácz, Péter, and Ágnes Lukács. "The effect of age, education, and vocabulary size on the speed of word recognition across the lifespan." Brain Research (2025): 149891.
-- Blaskovics, Ákos, and Ambrus Ittzés. "Ybl a Google-ön." Beszédtudomány-Speech Science 3, no. 1 (2022): 225-272.
 - Rácz, Péter, and Ágnes Lukács. "Lexical and social effects on the learning and integration of inflectional morphology." Cognitive Science 48, no. 8 (2024): e13483.
+- Blaskovics, Ákos, and Ambrus Ittzés. "Ybl a Google-ön." Beszédtudomány-Speech Science 3, no. 1 (2022): 225-272.
 
-A teljes publikációs lista a [Google Scholar](https://scholar.google.com/citations?user=EzdJE8oAAAAJ)
+A laborvezető teljes publikációs listája a [Google Scholar](https://scholar.google.com/citations?user=EzdJE8oAAAAJ)
 oldalon érhető el.
