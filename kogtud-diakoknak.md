@@ -134,8 +134,8 @@ Nyíltan meg kell mondanod, hogyan használtad az AI-t, hogy értékelni lehesse
 
 ## Kapcsolat {#kapcsolat}
 
-Szakfelelős: Dr. Pajkossy Péter
-Szakkoordinátor: Dr. Báthori Noémi
+- Szakfelelős: Dr. Pajkossy Péter
+- Szakkoordinátor: Dr. Báthori Noémi
 
 A szak hallgatói a képzéssel kapcsolatos kérdéseikkel, illetve információkérés esetén az alábbi e-mail-címre írhatnak:
-kogmsc.szakfelelos@ttk.bme.hu 
+<a href="kogmsc.szakfelelos@ttk.bme.hu">kogmsc.szakfelelos@ttk.bme.hu</a>
