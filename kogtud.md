@@ -163,7 +163,7 @@ permalink: /kogtud/
 
     <div class="applybox" style="margin-top:3rem">
       <h2>Jelentkezz most</h2>
-      <p>Kérdéseiddel keresd a tanszéket <a href="mailto:kogmscinfo@ttk.bme.hu">e-mailben</a>, vagy kövess minket a Facebookon.</p>
+      <p>Kérdéseiddel keresd a tanszéket <a href="mailto:kogmscinfo@ttk.bme.hu">e-mailben</a>: kogmscinfo@ttk.bme.hu, vagy kövess minket a Facebookon.</p>
       <div class="links">
         <a class="btn ghost" href="https://www.felvi.hu/felveteli/szakok_kepzesek/szakleirasok/!Szakleirasok/index.php/szak/2324/szakleiras" target="_blank" rel="noopener">Szakleírás a felvin</a>
         <a class="btn ghost" href="{{ site.contact.facebook }}" target="_blank" rel="noopener">Facebook</a>
