@@ -138,4 +138,4 @@ Nyíltan meg kell mondanod, hogyan használtad az AI-t, hogy értékelni lehesse
 - Szakkoordinátor: Dr. Báthori Noémi
 
 A szak hallgatói a képzéssel kapcsolatos kérdéseikkel, illetve információkérés esetén az alábbi e-mail-címre írhatnak:
-<a href="kogmsc.szakfelelos@ttk.bme.hu">kogmsc.szakfelelos@ttk.bme.hu</a>
+<a href="mailto:kogmsc.szakfelelos@ttk.bme.hu">kogmsc.szakfelelos@ttk.bme.hu</a>
