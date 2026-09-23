@@ -15,6 +15,9 @@ lead: Szakdolgozattal és záróvizsgával kapcsolatos tudnivalók mesterszakos 
 - [Záróvizsga](#zarovizsga)
 - [Plágium](#plagium)
 - [AI-használat kritériumai hallgatói dolgozatokhoz](#ai-hasznalat)
+- [Kapcsolat](#kapcsolat)
+
+
 
 A félévek órarendjét megtalálhatjátok a Naptár menüpont alatt.
 
@@ -127,3 +130,12 @@ Nyíltan meg kell mondanod, hogyan használtad az AI-t, hogy értékelni lehesse
 
 - **Elfogadható:** "A Claude Sonnet 5-öt használtam a nyelvhelyesség javítására és a kódvázlatok generálására, amelyeket aztán módosítottam."
 - **Nem elfogadható:** Nem említed, hogy az AI segített a módszertan vagy az eredmények szakasz megírásában.
+
+
+## Kapcsolat {#kapcsolat}
+
+Szakfelelős: Dr. Pajkossy Péter
+Szakkoordinátor: Dr. Báthori Noémi
+
+A szak hallgatói a képzéssel kapcsolatos kérdéseikkel, illetve információkérés esetén az alábbi e-mail-címre írhatnak:
+kogmsc.szakfelelos@ttk.bme.hu 
