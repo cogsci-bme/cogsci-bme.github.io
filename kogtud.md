@@ -162,7 +162,7 @@ permalink: /kogtud/
     <p class="muted" style="max-width:62ch;margin-top:0">A felvételi tájékoztatók és a mintatantervek a <a href="{{ site.baseurl }}/dokumentumtar/">Dokumentumtárban</a> érhetők el.</p>
 
     <div class="applybox" style="margin-top:3rem">
-      <h2>Jelentkezz most</h2>
+      <h2>Kapcsolat</h2>
       <p>Kérdéseiddel keresd a tanszéket <a href="mailto:kogmscinfo@ttk.bme.hu">e-mailben</a>: kogmscinfo@ttk.bme.hu, vagy kövess minket a Facebookon.</p>
       <div class="links">
         <a class="btn ghost" href="https://www.felvi.hu/felveteli/szakok_kepzesek/szakleirasok/!Szakleirasok/index.php/szak/2324/szakleiras" target="_blank" rel="noopener">Szakleírás a felvin</a>
