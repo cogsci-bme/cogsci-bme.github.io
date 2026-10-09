@@ -32,7 +32,7 @@ lead: A Kognitív Tudományi Tanszék oktatói, kutatói és munkatársai.
     <img src="{{ site.baseurl }}/images/munkatarsak/Babarczy_Anna.jpg" alt="Babarczy Anna">
     <div>
       <h3>Babarczy Anna</h3>
-      <p class="who">tanszékvezető, egyetemi docens</p>
+      <p class="who">egyetemi docens</p>
       <p><span class="label">Iroda</span> T507</p>
       <p><span class="label">Telefon</span> 06 (1) 463-1269</p>
       <p><span class="label">E-mail</span> <a href="mailto:babarczy.anna@ttk.bme.hu">babarczy.anna@ttk.bme.hu</a></p>
@@ -102,7 +102,7 @@ lead: A Kognitív Tudományi Tanszék oktatói, kutatói és munkatársai.
     <img src="{{ site.baseurl }}/images/munkatarsak/Pajkossy_Peter.jpg" alt="Pajkossy Péter">
     <div>
       <h3>Pajkossy Péter</h3>
-      <p class="who">egyetemi docens</p>
+      <p class="who">tanszékvezető, egyetemi docens</p>
       <p><span class="label">Iroda</span> T503</p>
       <p><span class="label">Telefon</span> 06 (1) 463-1053</p>
       <p><span class="label">E-mail</span> <a href="mailto:pajkossy.peter@ttk.bme.hu">pajkossy.peter@ttk.bme.hu</a></p>
