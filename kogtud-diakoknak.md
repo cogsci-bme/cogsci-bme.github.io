@@ -63,7 +63,7 @@ A Diplomamunka-készítés című tárgyra az kaphat elégtelentől különböz�
 
 ## Feladatkiírás és etikai engedély {#feladatkiiras}
 
-Ezen a [linken]({{ site.baseurl }}/dokumentumtar/master_CogSci/Zarovizsga/Feladatkiiras_Kognitiv_MSc%202025_26_1felevtol_UJ.docx) találnak egy feladatkiírás nevű dokumentumot, ezt kérem, töltsék ki, írassák alá a témavezetővel, és adják le a tanszéki irodában (T506) a fenti határidőig, hogy a tanszékvezető aláírhassa. Az aláírt dokumentumot majd csatolni kell a bekötött szakdolgozathoz. Ez egyben a plágiumnyilatkozat is.
+Ezen a [linken]({{ site.baseurl }}/dokumentumtar/master_CogSci/Zarovizsga/Feladatkiiras_Kognitiv_MSc_26_1felevtol_UJ.docx) találnak egy feladatkiírás nevű dokumentumot, ezt kérem, töltsék ki, írassák alá a témavezetővel, és adják le a tanszéki irodában (T506) a fenti határidőig, hogy a tanszékvezető aláírhassa. Az aláírt dokumentumot majd csatolni kell a bekötött szakdolgozathoz. Ez egyben a plágiumnyilatkozat is.
 
 A feladatkiírás leadásához előbb etikai engedély szükséges. Aki olyan kutatásba kapcsolódott be a szakdolgozatírás keretében, amely a témavezető által már elindított kutatást foglal magában, annak nem kell új etikai engedélyt kérnie, hanem elég a témavezető által engedélyeztetett kutatás etikai engedélyének másolatát csatolnia a dolgozatához. Akik viszont új, korábban nem engedélyezett kutatást végeznek, azoknak engedélyeztetniük kell a kutatásukat.
 
