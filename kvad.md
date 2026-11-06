@@ -237,7 +237,7 @@ theme: green
         <div class="fact"><dt>Kapcsolat</dt><dd><a href="mailto:babarczy.anna@ttk.bme.hu">babarczy.anna@ttk.bme.hu</a></dd></div>
         <div class="fact"><dt>Tandíj</dt><dd>Önköltséges, félévenként 450 ezer forint</dd></div>
         <div class="fact"><dt>Jelentkezési határidő</dt><dd>2026 December 15</dd></div>
-        <div class="fact"><dt>Jelentkezés</dt><dd>  Jelentkezés  <a href="https://etk.bme.hu/urlap" > ezen a linken</a> Ezen az oldalon a szakhoz rendelt  "kitöltés bejelentkezés után" linkre kattintva lehet először regisztrálni, aztán jelentkezni. </dd></div> 
+        <div class="fact"><dt>Jelentkezés</dt><dd>  Jelentkezés  <a href="https://etk.bme.hu/urlap" > ezen a linken.</a> Ezen az oldalon a szakhoz rendelt  "kitöltés bejelentkezés után" linkre kattintva lehet először regisztrálni, aztán jelentkezni. </dd></div> 
       </dl>
     </div>
   </div>
