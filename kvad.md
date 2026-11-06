@@ -231,13 +231,13 @@ theme: green
 
     <div class="applybox" style="margin-top:3rem">
       <h2>Jelentkezés</h2>
-      <p>A jelentkezés várhatóan november 1-én indul; a részletek alább olvashatók.</p>
+      <p>A jelentkezés folyamatban!</p>
       <dl class="facts" style="margin-top:1.6rem">
         <div class="fact"><dt>Szakfelelős</dt><dd>Babarczy Anna</dd></div>
         <div class="fact"><dt>Kapcsolat</dt><dd><a href="mailto:babarczy.anna@ttk.bme.hu">babarczy.anna@ttk.bme.hu</a></dd></div>
         <div class="fact"><dt>Tandíj</dt><dd>Önköltséges, félévenként 450 ezer forint</dd></div>
-        <div class="fact"><dt>Jelentkezési határidő</dt><dd>Részletek hamarosan</dd></div>
-        <div class="fact"><dt>Jelentkezés</dt><dd>2026 ősszel a felvi.bme.hu-n keresztül. A képzés iránt érdeklődők számára tájékoztatást küldünk a képzés indulásával kapcsolatos tudnivalókról. Regisztrálni <a href="https://forms.cloud.microsoft/e/CJWqdW9tJs">itt</a> lehet.</dd></div>
+        <div class="fact"><dt>Jelentkezési határidő</dt><dd>2026.11.12</dd></div>
+        <div class="fact"><dt>Jelentkezés</dt><dd>  Jelentkezés ezen a linken:  <a href=https://etk.bme.hu/urlap >itt</a> A linkre kattintva lehet először regisztrálni, aztán jelentkezni.  </dd></div>  #A képzés iránt érdeklődők számára tájékoztatást küldünk a képzés indulásával kapcsolatos tudnivalókról.  A felvi.bme.hu-n keresztül.
       </dl>
     </div>
   </div>
