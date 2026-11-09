@@ -120,7 +120,7 @@ Az adattudomány mindkettőben szerepel. A mesterképzésben ezen túl nagy hang
 
 #### Milyen oklevelet kapok a képzés végén?
 
-BME-oklevelet, amely a __Kognitív és viselkedéses adattudomány szakirányú továbbképzésben__ szerzett szakképzettséget igazolja. Ez nem mesterfokozat: aki alapdiplomával érkezik, annak a végzettségi szintje továbbra is alapfokozat marad.
+BME-oklevelet, amely a __Kognitív és viselkedéses adattudomány szakirányú továbbképzésben__ szerzett szakképzettséget igazolja. Ez nem mesterfokozat: aki alapdiplomával érkezik, annak a végzettségi szintje továbbra is alapfokozat marad. A végzettség neve ez lesz: "kognitív és viselkedéses adatelemző (cognitive and behavioral data analyst)".
 
 ### További kérdések
 
