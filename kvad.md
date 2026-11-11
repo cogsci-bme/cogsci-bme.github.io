@@ -38,6 +38,24 @@ theme: green
       <a class="btn btn--ghost" href="#info">Jelentkezés és feltételek</a>
       <a class="btn btn--ghost" href="{{ site.baseurl }}/kvad/gyik/">Gyakran ismételt kérdések</a>
     </div>
+    <div class="hero-actions">
+      <a class="btn btn--alert" href="#tajekoztato">FIGYELEM – Információk a november 19-i tájékoztatóval kapcsolatban</a>
+    </div>
+  </div>
+</section>
+
+<!-- TÁJÉKOZTATÓ FELHÍVÁS -->
+<section class="section" id="tajekoztato">
+  <div class="wrap">
+    <p class="eyebrow">Tájékoztató</p>
+    <h2 class="section-title">Tájékoztató a Kognitív és Viselkedéses Adattudomány képzésről – november 19., 18:00</h2>
+    <p class="lead">2026. november 19-én 18:00-kor tájékoztatót tartunk a BME Kognitív Tudományi Tanszékén 2027 februárjában induló Kognitív és Viselkedéses Adattudomány szakirányú továbbképzésről. A tájékoztatón bemutatjuk a képzés céljait, felépítését és a tanított módszereket, valamint lehetőséget biztosítunk az érdeklődők kérdéseinek megválaszolására.</p>
+    <p style="margin-top:1.2rem;color:var(--muted)"><strong>Részvételi lehetőségek:</strong></p>
+    <dl class="facts" style="margin-top:.8rem">
+      <div class="fact"><dt>Személyesen</dt><dd>BME, T épület, T-515-ös terem</dd></div>
+      <div class="fact"><dt>Online</dt><dd>A csatlakozáshoz szükséges linket a tájékoztató kezdete előtt egy órával, közvetlenül a <a href="{{ site.baseurl }}/hirek/kvad-tajekoztato-november-19/">ezzel kapcsolatos hírben</a> tesszük közzé.</dd></div>
+    </dl>
+    <p style="margin-top:1.2rem">Szeretettel várunk minden érdeklődőt!</p>
   </div>
 </section>
 

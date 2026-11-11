@@ -171,6 +171,20 @@ header.topbar{
 .btn--ghost{border:1px solid rgba(255,255,255,.4);color:#fff}
 .btn--ghost:hover{text-decoration:none;border-color:#fff}
 
+/* Eye-catching call-out for a time-sensitive announcement (e.g. an upcoming
+   info session). Deliberately off-palette -- amber, not the page theme --
+   and pulsing, so it reads as "new/urgent" against any theme colour. */
+.btn--alert{
+  background:#ffcc00;color:#1a1200;border:1px solid #e6b800;
+  animation:alert-pulse 1.6s ease-in-out infinite;
+}
+.btn--alert:hover{text-decoration:none;background:#ffd633}
+@keyframes alert-pulse{
+  0%,100%{box-shadow:0 0 0 0 rgba(255,204,0,.65)}
+  50%{box-shadow:0 0 0 10px rgba(255,204,0,0)}
+}
+@media (prefers-reduced-motion: reduce){.btn--alert{animation:none}}
+
 /* -----------------------------------------------------------------
    Pillars (numbered feature cards)
    ----------------------------------------------------------------- */
