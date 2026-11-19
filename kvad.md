@@ -53,7 +53,7 @@ theme: green
     <p style="margin-top:1.2rem;color:var(--muted)"><strong>Részvételi lehetőségek:</strong></p>
     <dl class="facts" style="margin-top:.8rem">
       <div class="fact"><dt>Személyesen</dt><dd>BME, T épület, T-515-ös terem</dd></div>
-      <div class="fact"><dt>Online</dt><dd>A csatlakozáshoz szükséges linket a tájékoztató kezdete előtt egy órával, közvetlenül a <a href="{{ site.baseurl }}/hirek/kvad-tajekoztato-november-19/">ezzel kapcsolatos hírben</a> tesszük közzé.</dd></div>
+      <div class="fact"><dt>Online</dt><dd>Csatlakozás a Microsoft Teamsen <a href="https://teams.microsoft.com/meet/3699157626044256?p=kUzQ4iNnFuMcawxNpU">ezen a linken</a>.</dd></div>
     </dl>
     <p style="margin-top:1.2rem">Szeretettel várunk minden érdeklődőt!</p>
   </div>

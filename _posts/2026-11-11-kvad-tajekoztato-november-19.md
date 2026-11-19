@@ -8,7 +8,7 @@ title: Tájékoztató a Kognitív és Viselkedéses Adattudomány képzésről �
 Részvételi lehetőségek:
 
 - **Személyesen:** BME, T épület, T-515-ös terem.
-- **Online:** A csatlakozáshoz szükséges linket a tájékoztató kezdete előtt egy órával, közvetlenül ezen bejegyzés alatt tesszük közzé.
+- **Online:** Csatlakozás a Microsoft Teamsen [ezen a linken](https://teams.microsoft.com/meet/3699157626044256?p=kUzQ4iNnFuMcawxNpU).
 
 Szeretettel várunk minden érdeklődőt!
 
