@@ -126,4 +126,4 @@ BME-oklevelet, amely a __Kognitív és viselkedéses adattudomány szakirányú 
 
 #### Hol kérdezhetek még?
 
-November 19-én, csütörtökön újabb tájékoztatót tartunk, amelyre személyesen és online is be lehet kapcsolódni. Erről nemsokára küldünk tájékoztatót. Kérdéseket e-mailben is szívesen fogadunk: [babarczy.anna@ttk.bme.hu](mailto:babarczy.anna@ttk.bme.hu).
+Kérdéseket e-mailben szívesen fogadunk: [babarczy.anna@ttk.bme.hu](mailto:babarczy.anna@ttk.bme.hu).
