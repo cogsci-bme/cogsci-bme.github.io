@@ -37,6 +37,7 @@ theme: green
       <a class="btn btn--solid" href="#tanterv">Tanterv megtekintése</a>
       <a class="btn btn--ghost" href="#info">Jelentkezés és feltételek</a>
       <a class="btn btn--ghost" href="{{ site.baseurl }}/kvad/gyik/">Gyakran ismételt kérdések</a>
+      <a class="btn btn--solid" href="{{ site.baseurl }}/kvad/programozas/">Betekintő: nézz bele egy kurzusba</a>
     </div>
   </div>
 </section>
@@ -102,6 +103,15 @@ theme: green
     <h2 class="section-title">Tanterv: 60 kredit, két félév</h2>
     <p class="lead" style="margin-bottom:2rem">A képzés három modulból és egy szabadon választott tárgyból áll. A kontaktórák tömbösített blokkokban zajlanak, az online elérhető anyagokat a félév elején bocsátjuk rendelkezésre. A tárgyak nevére kattintva a rövid tárgyleírás is megjelenik.</p>
 
+    <!-- Betekintő az első kurzusba (kvad-programozas.md) -->
+    <div class="applybox" style="margin:0 0 2.4rem">
+      <h2>Nézz bele egy kurzusba</h2>
+      <p>A <strong>Programozási alapismeretek, adatkezelés, adatvizualizáció</strong> kurzus első hat videója és két kipróbálható Colab-jegyzetfüzete már elérhető. Telepítés nélkül, a böngésződben megnézheted, hogyan dolgozunk: az AI-asszisztens írja a kódot, te kérdezel és ellenőrzöl.</p>
+      <div class="links">
+        <a class="btn" href="{{ site.baseurl }}/kvad/programozas/">Betekintő megnyitása</a>
+      </div>
+    </div>
+
     <div class="modules">
       <div class="module">
         <span class="tag">Modul 01</span>
@@ -132,6 +142,7 @@ theme: green
         <summary>Programozási alapismeretek, adatkezelés, adatvizualizáció <span class="cmeta"><span class="mtag">M01</span><span class="ccr">6</span><span class="plus">+</span></span></summary>
         <div class="body">
           <p>Az MI-támogatott adattudomány alapjainak elsajátítása négy blokkban: az adatelemzés alapvető digitális eszközei; egyszerű szimulációk és elemzések; adatok beolvasása és feldolgozása; ábrák és vizualizációk készítése. A kurzus végére a hallgató adatot olvas be, egyszerű statisztikákat számol, és ábrákon mutatja be az eredményt.</p>
+          <p><a href="{{ site.baseurl }}/kvad/programozas/">Betekintő a kurzusba: videók és Colab-jegyzetfüzetek →</a></p>
         </div>
       </details>
 

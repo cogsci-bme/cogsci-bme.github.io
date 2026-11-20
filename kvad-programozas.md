@@ -3,10 +3,6 @@ layout: default
 title: Programozási alapismeretek – betekintő
 permalink: /kvad/programozas/
 theme: green
-# Nem listázott oldal: nincs rá link, kimarad a sitemap.xml-ből, és a
-# keresőknek noindex jelzést kap (_includes/meta.html).
-sitemap: false
-noindex: true
 
 # A YouTube-lejátszási lista azonosítója (csak a "teljes lista" linkhez).
 playlist: PLRFBSL7aDrD0
