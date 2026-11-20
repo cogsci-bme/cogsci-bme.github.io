@@ -8,19 +8,22 @@ theme: green
 sitemap: false
 noindex: true
 
-# A YouTube-lejátszási lista azonosítója. A videókat a listán belüli
-# sorszámukkal (index) ágyazzuk be, így nincs szükség az egyes videók
-# azonosítójára. Ha a lista sorrendje változik, az index mezőket kell igazítani.
+# A YouTube-lejátszási lista azonosítója (csak a "teljes lista" linkhez).
 playlist: PLRFBSL7aDrD0
 
+# Videók. index: a kártyán megjelenő sorszám; id: a YouTube-videó azonosítója
+# (a youtu.be/ utáni 11 karakter, a ?si=... rész nélkül).
 videos:
   - index: 1
+    id: wHitq7hmKDQ
     title: Mi az adat?
     summary: Mit jelent a viselkedés tudományos értelemben, és miért ilyen zajos minden adat, ami az emberekről szól? A pszichológia egy eredményt húszból tizenkilenc ismétlésnél vesz komolyan, a részecskefizika nagyjából hárommilliónál. Utána arról, hogy minden mérés közvetett (a pókos példa), és hogy az adatokat két szempont szerint érdemes elrendezni. Rögzítheted, amit az emberek mondanak, vagy amit csinálnak. Az adatot értelmezheted szövegként, vagy kifejezheted számokkal.
   - index: 2
+    id: lf2bAbwdhuI
     title: Miért nem Excel? Programozás és AI
     summary: Egy kimaradt képlet egy nagy hatású közgazdasági tanulmányban, dátummá alakított génnevek, tizenhatezer elveszett covid-teszt. A táblázatkezelők nem hagynak nyomot, hamar a korlátaikba ütköznek, és nem bírják a nagy adathalmazokat. A programozási nyelv átvezet az írásbeliségbe. A nagy nyelvmodellek óta pedig a kód betűhív megírása helyett az eredmények ellenőrzésén van a hangsúly.
   - index: 3
+    id: qVuMC-yKOqU
     title: Mi az ábra?
     summary: Az ábra nem dísz, és nem ártatlan. A 18. századi botanikai rajzoktól eljutunk a torzítás, az ügyetlenség és a hangsúlyozás közötti különbségig, amelyek ugyanazokkal az eszközökkel dolgoznak. Az AI által rajzolt grafikon is tele van döntésekkel, csak nem a tieiddel.
     reading:
@@ -28,18 +31,21 @@ videos:
       - Alberto Cairo, <em>How Charts Lie</em>. W. W. Norton, 2019.
       - Darrell Huff, <em>How to Lie with Statistics</em>. W. W. Norton, 1954.
   - index: 4
+    id: cw4mZbqj4KE
     title: Melyik adatra melyik ábra? (1. rész)
     summary: Kategorikus, sorrendi és folyamatos adatok. Hisztogram és sűrűségábra, és miért rajzol a simító algoritmus negatív reakcióidőt. Oszlopdiagram, amelynek nulláról kell indulnia. Melyik ábrázolási elemet olvassuk le a legpontosabban, és melyiket a legrosszabbul.
     reading:
       - Claus O. Wilke, <em>Fundamentals of Data Visualization</em>. O'Reilly, 2019. <a href="https://clauswilke.com/dataviz/">Ingyenesen olvasható online</a>.
       - William S. Cleveland, Robert McGill (1984), Graphical perception. <em>Journal of the American Statistical Association</em> 79(387), 531–554.
   - index: 5
+    id: nqncx3vq1Zw
     title: Melyik adatra melyik ábra? (2. rész)
     summary: Pontdiagram és átfedés, mit rejt el a dobozábra, esőfelhő- és hegedűábra. Két kategorikus változó, idősorok, három változó egy ábrán vagy panelekre bontva. Végül három dolog, amit ne csinálj soha (tortadiagram, dinamitábra, szivárványszínskála).
     reading:
       - Tracey L. Weissgerber et al. (2015), Beyond bar and line graphs. <em>PLOS Biology</em> 13(4), e1002128.
       - Micah Allen et al. (2019), Raincloud plots. <em>Wellcome Open Research</em> 4, 63.
   - index: 6
+    id: Hc5c9BbSDkU
     title: Ismerkedés a Colabbal
     summary: Végigmegyünk a bemutató jegyzetfüzeten. Kódcella futtatása, egy kis táblázat, a beépített AI-asszisztens megkérése, hogy magyarázzon el, alakítson át vagy írjon kódot, és mit csinálj, ha hibaüzenetet kapsz.
     notebook: bemutato
@@ -99,8 +105,8 @@ notebooks:
       {% for v in page.videos %}
       <article class="vcard">
         <!-- Kattintásra a lenti szkript cseréli le a valódi lejátszóra; szkript nélkül a YouTube-ra visz. -->
-        <a class="vplay" href="https://www.youtube.com/playlist?list={{ page.playlist }}"
-           data-src="https://www.youtube-nocookie.com/embed/videoseries?list={{ page.playlist }}&amp;index={{ v.index }}&amp;autoplay=1"
+        <a class="vplay" href="https://www.youtube.com/watch?v={{ v.id }}"
+           data-src="https://www.youtube-nocookie.com/embed/{{ v.id }}?autoplay=1&amp;rel=0"
            data-title="{{ v.title }}">
           <span class="vplay-n">{{ v.index }}. videó</span>
           <span class="vplay-icon" aria-hidden="true">▶</span>
