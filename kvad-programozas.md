@@ -139,6 +139,7 @@ notebooks:
     <h2 class="section-title">Colab-jegyzetfüzetek</h2>
     <p style="color:var(--muted);max-width:62ch">A Colab a Google böngészőben futó programozási környezete. Nem kell hozzá semmit telepíteni, és van beépített AI-asszisztense. Egy Google-fiókra van szükséged.</p>
     <p class="nb-note"><strong>Fontos:</strong> a megosztott jegyzetfüzeteket nem tudod szerkeszteni. Megnyitás után válaszd a <strong>Fájl → Másolat mentése a Drive-ba</strong> menüpontot, és a saját másolatodban dolgozz.</p>
+    <p class="nb-note"><strong>Diákkedvezmény:</strong> a szakirányú továbbképzés résztvevői a BME hallgatói, így jogosultak lehetnek a Google egyetemi hallgatóknak szóló ajánlatára, amellyel egy évig ingyenesen használhatják a Google fizetős AI-csomagját. A pontos feltételek és a jelentkezés <a href="https://one.google.com/ai-student?g1_landing_page=75">a Google oldalán</a> találhatók.</p>
     <div class="pillars">
       <div class="pillar">
         <p class="n">01 · BEMUTATÓ</p>
