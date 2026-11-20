@@ -4,6 +4,9 @@
          gyengénlátók számára is nagyítható maradjon. -->
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 
+    {% comment %} `noindex: true` a front matterben: a keresők ne indexeljék az oldalt (pl. még nem listázott oldalaknál). {% endcomment %}
+    {% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
+
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
