@@ -159,7 +159,7 @@ notebooks:
   <div class="wrap">
     <p class="eyebrow">Ízelítő</p>
     <h2 class="section-title">Ugyanaz az adat, kétféleképpen</h2>
-    <p style="color:var(--muted);max-width:62ch">Néhány ábrapár a 4–5. videóból. A bal oldali változat félrevezet vagy elrejt valamit, a jobb oldali ugyanazt az adatot mutatja becsületesen.</p>
+    <p style="color:var(--muted);max-width:62ch">Néhány ábrapár a 4–5. videóból. A <strong>Rossz</strong> címkéjű változat félrevezet vagy elrejt valamit, a <strong>Jobb</strong> címkéjű ugyanazt az adatot mutatja becsületesen.</p>
 
     <div class="pair">
       <figure><span class="verdict verdict--bad">Rossz</span><img src="{{ site.baseurl }}/images/kvad/programozas/07_munkahely_oszlop_tengely_rossz.png" alt="Oszlopdiagram, amelynek tengelye 60-nál indul, ezért a különbségek eltúlzottnak látszanak" loading="lazy"></figure>
