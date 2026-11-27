@@ -84,7 +84,7 @@ Ezen a [linken]({{ site.baseurl }}/dokumentumtar/master_CogSci/Zarovizsga/DIPLOM
 
 A záróvizsga feltétele a végleges diplomamunka leadása a megadott határidőre. A határidőt szigorúan betartjuk. Aki nem adja le a szakdolgozatát a megadott időpontig, nem záróvizsgázhat ebben a félévben.
 
-A záróvizsga két részből áll. Egyrészt egy 10 perces előadást tartanak a diplomamunkájukból, amit 5 perc kérdés-válasz követ. Az előadás nyelve lehet magyar vagy angol. Legyen az előadáshoz prezentáció. Az előadás tudományos jellegű legyen, szakmai közönségnek szól.
+A záróvizsga két részből áll. Egyrészt egy 10 perces előadást tartanak a diplomamunkájukból, amit 5 perc kérdés-válasz követ. Az előadás nyelve magyar. Legyen az előadáshoz prezentáció. Az előadás tudományos jellegű legyen, szakmai közönségnek szól.
 
 Másrészt a tételsorból két tételt kell húzni, egyet az alaptémák közül, és egyet a választott specializációjukból (idegtudomány, nyelv, vagy filozófia). 30 percük lesz a felkészülésre, és azután 15 perc lesz a tételek megvitatása a vizsgán. A tételsor szintén ezen a [linken]({{ site.baseurl }}/dokumentumtar/master_CogSci/Zarovizsga/Zarovizsgatetelek_2025_26%20V2.pdf) található.
 
